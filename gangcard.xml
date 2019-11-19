@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+  <card>
+    <cardTitle>A New Strain</cardTitle>
+    <cardCondition>Play immediately before rolling to wound with a Gas weapon.</cardCondition>
+    <cardDescription>Add 2 to the result of the dice roll to determine whether the target succumbs to the gas</cardDescription>
+    <cardGang>Escher</cardGang>
+    <cardId>56</cardId>
+  </card>
+  <card>
+    <cardTitle>Counter Charge</cardTitle>
+    <cardCondition>Play this card when an enemy fighter makes a Charge action, after they move but before they make their attacks.</cardCondition>
+    <cardDescription>Pick a Readied fighter from your gang. They can make a Standard Move (adding D3’’ to the distance they can move, as though they were charging) towards the enemy fighter who charged. The counter-charging fighter cannot make any attacks, but they can make Reaction attacks and grant assists/interference as norma</cardDescription>
+    <cardGang>Escher</cardGang>
+    <cardId>57</cardId>
+  </card>
+  <card>
+    <cardTitle>Gas Trap</cardTitle>
+    <cardCondition>Play this at the start of the battle when setting up your gang.</cardCondition>
+    <cardDescription>Pick any of your fighters to carry the frag trap, and put this card under their Fighter card. Once during the game, the fighter, as long as they are Active, can make this action: Set Gas Trap (Double) – Place a Gas Trap marker within 1’’ of the fighter. Then they can move up to D6’’. If the fighter goes Out of Action before making this action, roll a D6. On a 1, the trap triggered (centred on the fighter&apos;s base). On a 2-3, place a Gas Trap marker where the fighter stood. On a 4+, discard this card.</cardDescription>
+    <cardGang>Escher</cardGang>
+    <cardId>58</cardId>
+  </card>
+  <card>
+    <cardTitle>Not So Easy</cardTitle>
+    <cardCondition>Play at the start of any round after the opposing gang has bottled out.</cardCondition>
+    <cardDescription>When making Nerve tests for opposing fighters to see if they flee, subtract 2 from the result if they are within 3’’ of a fighter from this gang</cardDescription>
+    <cardGang>Escher</cardGang>
+    <cardId>59</cardId>
+  </card>
+  <card>
+    <cardTitle>Put Them Down!</cardTitle>
+    <cardCondition>Play at the end of any Action phase.</cardCondition>
+    <cardDescription>Any Seriously Injured enemy fighters that are within 2’’ of an Active fighter from this gang are immediately taken Out of Action.</cardDescription>
+    <cardGang>Escher</cardGang>
+    <cardId>60</cardId>
+  </card>
+  <card>
+    <cardTitle>Scrag</cardTitle>
+    <cardCondition>Play this card after one of your fighters puts an enemy out of action in close combat</cardCondition>
+    <cardDescription>Enemy fighters must make a Nerve test if they are within 9’’ rather than 3’’ (they must still be visible). In addition, subtract 2 from the result of any Nerve tests made for fighters within 3’’.</cardDescription>
+    <cardGang>Escher</cardGang>
+    <cardId>61</cardId>
+  </card>
+  <card>
+    <cardTitle>Side By Side</cardTitle>
+    <cardCondition>Play instead of activating a fighter.</cardCondition>
+    <cardDescription>Until the end of this round, any assists that are granted by fighters from this gang grant a +2 bonus to the hit roll (instead of +1).</cardDescription>
+    <cardGang>Escher</cardGang>
+    <cardId>62</cardId>
+  </card>
+  <card>
+    <cardTitle>Siren Howls</cardTitle>
+    <cardCondition>Play at the start of any End phase.</cardCondition>
+    <cardDescription>e. Until the start of the next End phase, add 1 to the result of any Bottle tests made for the enemy gang. In addition, Broken enemy fighters cannot rally.</cardDescription>
+    <cardGang>Escher</cardGang>
+    <cardId>63</cardId>
+  </card>
+  <card>
+    <cardTitle>Stealthy Advance</cardTitle>
+    <cardCondition>⁾ Play this card after both gangs have been set up at the start of the battle, before the first round begins</cardCondition>
+    <cardDescription>Up to half of the fighters in your crew (rounding up) can immediately make a Standard Move.</cardDescription>
+    <cardGang>Escher</cardGang>
+    <cardId>64</cardId>
+  </card>
+  <card>
+    <cardTitle>Three Point Landing</cardTitle>
+    <cardCondition>Play when a fighter falls. Note: Sector Mechanicus only.</cardCondition>
+    <cardDescription>The fighter is not Pinned by the fall and does not suffer a hit. If they still have any actions to take, they can take them.</cardDescription>
+    <cardGang>Escher</cardGang>
+    <cardId>65</cardId>
+  </card>
+  <card>
+    <cardTitle>Tunnel Runners</cardTitle>
+    <cardCondition>Play at the start of any round. Note: Zone Mortalis onl</cardCondition>
+    <cardDescription>For the duration of the round, all friendly fighters can move through pitfalls and ductways as though they were clear terrain. They cannot end their turn on them.</cardDescription>
+    <cardGang>Escher</cardGang>
+    <cardId>66</cardId>
+  </card>
+  <card>
+    <cardTitle>Ultra Violence</cardTitle>
+    <cardCondition>⁾ Play instead of activating a fighter</cardCondition>
+    <cardDescription>For the remainder of the round, all weapons with the Melee trait gain Parry – if they did not already have it – and increase their AP by -1.</cardDescription>
+    <cardGang>Escher</cardGang>
+    <cardId>67</cardId>
+  </card>
+  <card>
+    <cardTitle>Blessed Visions</cardTitle>
+    <cardCondition>You may play this card when activating a fighter. Tuck this card under that fighter&apos;s card.</cardCondition>
+    <cardDescription>This fighter gains the benefits of the Inspirational skill for the remainder of the battle.
+</cardDescription>
+    <cardGang>Cawdor</cardGang>
+    <cardId>68</cardId>
+  </card>
+  <card>
+    <cardTitle>Chainsword Virtuoso</cardTitle>
+    <cardCondition>You may play this card when you set up one of your gang&apos;s fighters onto the battlefield. Tuck this card under that fighter&apos;s card.
+</cardCondition>
+    <cardDescription>For the duration of this battle, all of this fighter&apos;s Chainsword weapon profiles gain the Deadly trait.
+</cardDescription>
+    <cardGang>Cawdor</cardGang>
+    <cardId>69</cardId>
+  </card>
+  <card>
+    <cardTitle>Deadmen Walking</cardTitle>
+    <cardCondition>You may play this at the beginning of any End phase.
+</cardCondition>
+    <cardDescription>Your gang does not have to make a Bottle test this round. Any of your gang&apos;s fighters who are prone immediately stand up. Any of your gang&apos;s fighters who are Broken automatically Rally. Then every Active fighter on your gang must move 2D3&apos;&apos; towards the nearest enemy, and will move into base contact with an enemy fighter if able.
+</cardDescription>
+    <cardGang>Cawdor</cardGang>
+    <cardId>70</cardId>
+  </card>
+  <card>
+    <cardTitle>Divine Motivation</cardTitle>
+    <cardCondition>You may play this card when you set up one of your gang&apos;s fighters onto the battlefield. Tuck this card under that fighter&apos;s card.
+</cardCondition>
+    <cardDescription>When activated this fighter may attempt a Willpower check if they are Active. If this check is successful the fighter gains one additional action that they may use during this activation, but if the check is failed the fighter begins raving fanatically and takes a Charge action.
+</cardDescription>
+    <cardGang>Cawdor</cardGang>
+    <cardId>71</cardId>
+  </card>
+  <card>
+    <cardTitle>Fath Through Fear</cardTitle>
+    <cardCondition>You may play this card when one of your fighters fails a Leadership, Cool, or Willpower check (including a Nerve test).
+</cardCondition>
+    <cardDescription>The fighter is considered to have passed their check, and until the end of the current round they also automatically pass any other Leadership, Cool, or Willpower checks they must make.
+</cardDescription>
+    <cardGang>Cawdor</cardGang>
+    <cardId>72</cardId>
+  </card>
+  <card>
+    <cardTitle>Faith Through Fire</cardTitle>
+    <cardCondition>You may play this card at the start of any round.
+</cardCondition>
+    <cardDescription>For the duration of this round, your gang&apos;s fighters that have a Blaze marker on them may ignore the Blaze marker until the end of the Action phase, moving and taking actions as normal. In addition, all of their close combat attacks that have the Melee trait gain the Blaze trait during their activation. At the end of the Action phase, each of your fighters who ignored their Blaze marker suffer an immediate Strength 3, AP -1, Damage 1 hit.
+</cardDescription>
+    <cardGang>Cawdor</cardGang>
+    <cardId>73</cardId>
+  </card>
+  <card>
+    <cardTitle>For the lost!</cardTitle>
+    <cardCondition>You may play this card when one of your gang&apos;s fighters is taken Out of Action.
+</cardCondition>
+    <cardDescription>Each of your gang&apos;s Engaged fighters may select one of their weapons that has the Melee trait and make a single attack with it against an enemy fighter they are Engaged with; enemy fighter(s) attacked in this way do not make Reaction attacks.
+</cardDescription>
+    <cardGang>Cawdor</cardGang>
+    <cardId>74</cardId>
+  </card>
+  <card>
+    <cardTitle>Glorious Firebrand</cardTitle>
+    <cardCondition>You may play this card when you set up one of your gang&apos;s fighters onto the battlefield. Select one of the fighter&apos;s ranged weapons that has the Blaze or Melta trait, and tuck this card under that fighter&apos;s card.
+</cardCondition>
+    <cardDescription>The selected weapon automatically passes all Ammo checks it is required to make.
+</cardDescription>
+    <cardGang>Cawdor</cardGang>
+    <cardId>75</cardId>
+  </card>
+  <card>
+    <cardTitle>Let it burn!</cardTitle>
+    <cardCondition>You may play this card to interrupt an enemy fighter&apos;s activation when they try to get rid of a Blaze marker on themselves.
+</cardCondition>
+    <cardDescription>The enemy fighter&apos;s attempts to get rid of the Blaze marker fail and their activation ends immediately.
+</cardDescription>
+    <cardGang>Cawdor</cardGang>
+    <cardId>76</cardId>
+  </card>
+  <card>
+    <cardTitle>Redemption</cardTitle>
+    <cardCondition>You may play this card when one of your gang&apos;s fighters fails to inflict any wounds in close combat.
+</cardCondition>
+    <cardDescription>You may reroll all of the fighter&apos;s close combat hits that failed to wound.
+</cardDescription>
+    <cardGang>Cawdor</cardGang>
+    <cardId>77</cardId>
+  </card>
+  <card>
+    <cardTitle>Righteous Day</cardTitle>
+    <cardCondition>You may play this card at the beginning of the Action phase of any round.
+</cardCondition>
+    <cardDescription>Your gang takes priority. All of your gang&apos;s fighters that are Active and Readied Group Activate together, and each fighter in the group must declare a Charge when activated.
+</cardDescription>
+    <cardGang>Cawdor</cardGang>
+    <cardId>78</cardId>
+  </card>
+  <card>
+    <cardTitle>Ultra Enflamed</cardTitle>
+    <cardCondition>You may play this card at the beginning of a round.
+</cardCondition>
+    <cardDescription>For the duration of the round, all of your gang&apos;s fighters on the battlefield gain the Berserker skill.
+</cardDescription>
+    <cardGang>Cawdor</cardGang>
+    <cardId>79</cardId>
+  </card>
+  <card>
+    <cardTitle>Deadly Backstabber</cardTitle>
+    <cardCondition>You may play this card when you activate one of your gang&apos;s fighters. Tuck this card under that fighter&apos;s card.
+</cardCondition>
+    <cardDescription>For the remainder of the battle whenever the Backstab trait is successfully applied to an enemy fighter by one of this fighter&apos;s attacks, the Deadly trait is also applied.
+</cardDescription>
+    <cardGang>Delaque</cardGang>
+    <cardId>80</cardId>
+  </card>
+  <card>
+    <cardTitle>Fade Away</cardTitle>
+    <cardCondition>During the Battle Sequence you may interrupt any action or resolution to play this card.
+</cardCondition>
+    <cardDescription>You immediately remove all of your gang&apos;s remaining fighters from the battlefield. Seriously Injured fighters removed from the battlefield in this way do not suffer Injury rolls but do go into Recovery and must miss the gang&apos;s next battle. Your gang is considered to have Bottled Out for purposes of Post-Battle Sequence resolutions.
+</cardDescription>
+    <cardGang>Delaque</cardGang>
+    <cardId>81</cardId>
+  </card>
+  <card>
+    <cardTitle>Garrote</cardTitle>
+    <cardCondition>You may play this card when one of your gang&apos;s Hidden fighters succesfully Charges an enemy Sentry.
+</cardCondition>
+    <cardDescription>Roll D6+1; if the result is higher than the enemy Sentry&apos;s current Toughness the Sentry is taken Out of Action immediately. If this happens outside the vision arcs of all other enemy fighters, no check is made to see if other enemy fighters detect your gang&apos;s Hidden fighter. If the enemy Sentry is not taken Out of Action, close combat is resolved per normal rules.
+</cardDescription>
+    <cardGang>Delaque</cardGang>
+    <cardId>82</cardId>
+  </card>
+  <card>
+    <cardTitle>Good Optics</cardTitle>
+    <cardCondition>You may play this card when you activate one of your gang&apos;s fighters. Tuck this card under that fighter&apos;s card.
+</cardCondition>
+    <cardDescription>This fighter gains a free Photogoggles wargear item for the remainder of the battle. If this fighter survives the battle and is not Captured, you may add this item to your gang&apos;s Stash after the battle.
+</cardDescription>
+    <cardGang>Delaque</cardGang>
+    <cardId>83</cardId>
+  </card>
+  <card>
+    <cardTitle>Healthy Paranoia</cardTitle>
+    <cardCondition>You may play this card on a fighter when they are set up on the battlefield. Tuck this card under that fighter&apos;s card.
+</cardCondition>
+    <cardDescription>For the remainder of the battle if a Hidden enemy fighter moves within 12&apos;&apos; and line of sight of this fighter that enemy fighter&apos;s action ends immediately, this fighter stops being a Sentry (if relevant), gets a Ready marker if they do not already have one, and this fighter may activate immediately.
+</cardDescription>
+    <cardGang>Delaque</cardGang>
+    <cardId>84</cardId>
+  </card>
+  <card>
+    <cardTitle>Poof!</cardTitle>
+    <cardCondition>You may play this card instead of activating a fighter.
+</cardCondition>
+    <cardDescription>Any or all of your gang&apos;s Active or Pinned fighters that have a Smoke Bomb Grenade may drop one at their own feet now; the Grenades used in this way do not scatter, and Ammo checks made for the Grenades are automatically passed.
+</cardDescription>
+    <cardGang>Delaque</cardGang>
+    <cardId>85</cardId>
+  </card>
+  <card>
+    <cardTitle>Stealthy Swiftness</cardTitle>
+    <cardCondition>You may play this card at the beginning of any round.
+</cardCondition>
+    <cardDescription>For the remainder of the battle each time you activate one of your gang&apos;s fighters, if they are currently Hidden they gain +2 Movement for the duration of their current activation (even if they stop being Hidden during the course of that activation).
+</cardDescription>
+    <cardGang>Delaque</cardGang>
+    <cardId>86</cardId>
+  </card>
+  <card>
+    <cardTitle>Ultra Treachery</cardTitle>
+    <cardCondition>You may play this card at the beginning of a round.
+</cardCondition>
+    <cardDescription>For the duration of the round, all of your gang&apos;s fighters on the battlefield gain the Backstab skill.
+</cardDescription>
+    <cardGang>Delaque</cardGang>
+    <cardId>87</cardId>
+  </card>
+  <card>
+    <cardTitle>Underhive Smog</cardTitle>
+    <cardCondition>You may play this card at the start of any End phase.
+</cardCondition>
+    <cardDescription>Your gang&apos;s smoke clouds do not dissipate in the current End phase.
+</cardDescription>
+    <cardGang>Delaque</cardGang>
+    <cardId>88</cardId>
+  </card>
+  <card>
+    <cardTitle>Valuable Secrets</cardTitle>
+    <cardCondition>You may play this card at the end of the Deployment step of the Pre-Battle Sequence after all fighters have been set up on the battlefield (including Infiltrating fighters).</cardCondition>
+    <cardDescription>Set up a terminal on the battlefield within 6&apos;&apos; of the center of the battlefield. Any of your gang&apos;s fighters who makes a successful Access Terminal action on the terminal downloads data that can be sold for 3D3 x 10 credits in the Receive Rewards step of the Post-Battle Sequence.
+</cardDescription>
+    <cardGang>Delaque</cardGang>
+    <cardId>89</cardId>
+  </card>
+  <card>
+    <cardTitle>Venemous Intent</cardTitle>
+    <cardCondition>You may play this card when you activate one of your gang&apos;s fighters. Tuck this card under that fighter&apos;s card.
+</cardCondition>
+    <cardDescription>Select a weapon profile of a bladed weapon (any kind of Sword, Dagger, Knife, etc) on the fighter&apos;s card that has the Melee trait; add the Toxin and Virulent traits to that weapon profile for the remainder of the battle.
+</cardDescription>
+    <cardGang>Delaque</cardGang>
+    <cardId>90</cardId>
+  </card>
+  <card>
+    <cardTitle>Wishen</cardTitle>
+    <cardCondition>You may play this card when you activate one of your gang&apos;s fighters. Tuck this card under that fighter&apos;s card.
+</cardCondition>
+    <cardDescription>This fighter gains a free Smoke Bomb Grenade item for the remainder of the battle. If this fighter survives the battle and is not Captured, you may add this item to your gang&apos;s Stash after the battle.
+</cardDescription>
+    <cardGang>Delaque</cardGang>
+    <cardId>91</cardId>
+  </card>
+  <card>
+    <cardTitle>Anythings A Weapon</cardTitle>
+    <cardCondition>You may play this card when you activate one of your gang&apos;s fighters. Tuck this card under that fighter&apos;s card.
+</cardCondition>
+    <cardDescription>This fighter&apos;s unarmed attacks have the Melee trait, and have a weapon profile of S+1, - AP, and 2 Damage.</cardDescription>
+    <cardGang>Goliath</cardGang>
+    <cardId>92</cardId>
+  </card>
+  <card>
+    <cardTitle>Brutal Charge</cardTitle>
+    <cardCondition>You may play this card on one of your gang&apos;s fighters when that fighter declares a Charge.
+</cardCondition>
+    <cardDescription>For the remainder of the round this fighter&apos;s Move is increased by 2&apos;&apos;, and any close combat attacks they make that have the Melee trait gain the Pulverize trait if they do not already have it.
+</cardDescription>
+    <cardGang>Goliath</cardGang>
+    <cardId>93</cardId>
+  </card>
+  <card>
+    <cardTitle>Ceramite Skin</cardTitle>
+    <cardCondition>You may play this card when you set up one of your gang&apos;s fighters onto the battlefield. Tuck this card under that fighter&apos;s card.
+</cardCondition>
+    <cardDescription>This fighter cannot be affected by weapons with the Blaze or Radiation traits. Additionally, this fighter&apos;s Toughness is increased by 2 against Frag Grenades, Plasma weapons, and weapons with the Melta trait.</cardDescription>
+    <cardGang>Goliath</cardGang>
+    <cardId>94</cardId>
+  </card>
+  <card>
+    <cardTitle>Inhuman resilience</cardTitle>
+    <cardCondition>You may play this card instead of activating a fighter.</cardCondition>
+    <cardDescription>Any of your gang&apos;s fighters who are Seriously Injured may make a Recovery roll now, treating Out of Action results as Seriously Injured. Next, any of your gang&apos;s fighters who are Pinned may immediately stand up.</cardDescription>
+    <cardGang>Goliath</cardGang>
+    <cardId>95</cardId>
+  </card>
+  <card>
+    <cardTitle>Ironhide</cardTitle>
+    <cardCondition>You may play this card when you set up one of your gang&apos;s fighters onto the battlefield. Tuck this card under that fighter&apos;s card.
+</cardCondition>
+    <cardDescription>This fighter&apos;s save roll is improved by 2. If the fighter does not already have a save Ironhide grants a save of 5+. This cannot be combined with other similar effects such as Armored Undersuit.</cardDescription>
+    <cardGang>Goliath</cardGang>
+    <cardId>96</cardId>
+  </card>
+  <card>
+    <cardTitle>Knockout Blow</cardTitle>
+    <cardCondition>You may play this card when one of your gang&apos;s fighters inflicts at least one wound on an enemy fighter who has no Wounds remaining, before Injury dice are rolled.</cardCondition>
+    <cardDescription>The enemy fighter is taken Out of Action immediately. In campaign mode, do not make a Lasting Injury roll; the enemy fighter is Out Cold.</cardDescription>
+    <cardGang>Goliath</cardGang>
+    <cardId>97</cardId>
+  </card>
+  <card>
+    <cardTitle>Not Done Yet</cardTitle>
+    <cardCondition>You may play this card when one of your gang&apos;s fighters would be taken Out of Action. Tuck this card under that fighter&apos;s card.</cardCondition>
+    <cardDescription>This fighter is not removed from play...yet. Additionally, if they were prone the fighter immediately stands up. Until their next activation the fighter cannot be Pinned or Seriously Inured, and cancels any Flesh Wounds inflicted on them. If they are still on the battlefield, the fighter is immediately taken Out of Action at the end of their next activation.</cardDescription>
+    <cardGang>Goliath</cardGang>
+    <cardId>98</cardId>
+  </card>
+  <card>
+    <cardTitle>Roid Rage</cardTitle>
+    <cardCondition>You may play this card on one of your gang&apos;s fighters when you activate them.</cardCondition>
+    <cardDescription>For the remainder of the round this fighter&apos;s Strength and Attacks are increased by 1 and fighters who are Knocked back by their close combat attacks are moved 2&apos;&apos; away instead of 1&apos;&apos;.</cardDescription>
+    <cardGang>Goliath</cardGang>
+    <cardId>99</cardId>
+  </card>
+  <card>
+    <cardTitle>Second Wind</cardTitle>
+    <cardCondition>You may play this card instead of activating a fighter.</cardCondition>
+    <cardDescription>You may remove a Flesh Wound from one of your gang&apos;s fighters, and if they are Pinned they may immediately stand up.</cardDescription>
+    <cardGang>Goliath</cardGang>
+    <cardId>100</cardId>
+  </card>
+  <card>
+    <cardTitle>Steel Constitution</cardTitle>
+    <cardCondition>You may play this card when you set up one of your gang&apos;s fighters onto the battlefield. Tuck this card under that fighter&apos;s card.</cardCondition>
+    <cardDescription>This fighter is unaffected by the Gas, Toxin, and Radiation traits. When this fighter makes a recovery test, they are considered to be assisted even when they are alone.</cardDescription>
+    <cardGang>Goliath</cardGang>
+    <cardId>101</cardId>
+  </card>
+  <card>
+    <cardTitle>Ultra Brawl</cardTitle>
+    <cardCondition>You may play this card at the beginning of a round.</cardCondition>
+    <cardDescription>For the duration of the round, all of your gang&apos;s fighters on the battlefield gain the Burly skill.</cardDescription>
+    <cardGang>Goliath</cardGang>
+    <cardId>102</cardId>
+  </card>
+  <card>
+    <cardTitle>Unstoppable Behemoth</cardTitle>
+    <cardCondition>You may play this card after an attack has been made against one of your gang&apos;s fighters before any Injury rolls are made (if any).</cardCondition>
+    <cardDescription>The attack against this fighter has no further effect; no Injury roll(s) are made. Additionally, if this fighter is Pinned, they may immediately stand up.</cardDescription>
+    <cardGang>Goliath</cardGang>
+    <cardId>103</cardId>
+  </card>
+  <card>
+    <cardTitle>Ambition</cardTitle>
+    <cardCondition>You may play this card when you set up a Juve or Specialist onto the battlefield. Tuck this card under that fighter&apos;s card.</cardCondition>
+    <cardDescription>This fighter is treated as a Leader for the purposes of activating groups.</cardDescription>
+    <cardGang>Orlock</cardGang>
+    <cardId>104</cardId>
+  </card>
+  <card>
+    <cardTitle>Ammo Boxes</cardTitle>
+    <cardCondition>You may play this card instead of activating a fighter.</cardCondition>
+    <cardDescription>You may set up D3+1 ammo caches anywhere on the battlefield.</cardDescription>
+    <cardGang>Orlock</cardGang>
+    <cardId>105</cardId>
+  </card>
+  <card>
+    <cardTitle>Beat Down</cardTitle>
+    <cardCondition>You may play this card at the beginning of a round.</cardCondition>
+    <cardDescription>For the duration of the round, all unarmed close combat attacks made by fighters of your gang that hit, automatically inflict a Flesh Wound unless a save roll is made. No wound roll or injury roll is made.</cardDescription>
+    <cardGang>Orlock</cardGang>
+    <cardId>106</cardId>
+  </card>
+  <card>
+    <cardTitle>Bond of Brotherhood</cardTitle>
+    <cardCondition>You may play this card when one of your gang&apos;s fighters ends their activation within 3&apos;&apos; of another fighter in your gang who is Seriously Injured.</cardCondition>
+    <cardDescription>The Seriously Injured fighter may immediately make a recovery test, and are considered to be assisted. If the Seriously Injured fighter recovers they may stand up rather than become Pinned.
+</cardDescription>
+    <cardGang>Orlock</cardGang>
+    <cardId>107</cardId>
+  </card>
+  <card>
+    <cardTitle>Chin Music</cardTitle>
+    <cardCondition>You may play this card to interrupt an enemy fighter&apos;s action when that fighter attacks one of your gang&apos;s fighters in close combat.</cardCondition>
+    <cardDescription>Your gang&apos;s attacked fighter may make a single unarmed attack against their attacker at +1 Strength and with the Knockback trait. If the attacker is not knocked back, Seriously Injured or taken Out of Action by this attack, their attack then resumes.
+</cardDescription>
+    <cardGang>Orlock</cardGang>
+    <cardId>108</cardId>
+  </card>
+  <card>
+    <cardTitle>Die Trying</cardTitle>
+    <cardCondition>You may play this card at the start of any round.</cardCondition>
+    <cardDescription>For the remainder of the battle, if any of your fighters are killed (66 on the Lasting Injury table, or similar dead result), before being removed from the battlefield the dying fighter may first stand up if prone, then make any two actions available to them as if they were Readied, and then be removed from the battlefield.
+</cardDescription>
+    <cardGang>Orlock</cardGang>
+    <cardId>109</cardId>
+  </card>
+  <card>
+    <cardTitle>For Close Encounters</cardTitle>
+    <cardCondition>You may play this card when you activate one of your gang&apos;s fighters. Tuck this card under that fighter&apos;s card.</cardCondition>
+    <cardDescription>This fighter gains a free Shotgun with Scattershot ammunition for the remainder of the battle. If this fighter survives the battle and is not Captured, you may add this item to your gang&apos;s Stash after the battle.
+</cardDescription>
+    <cardGang>Orlock</cardGang>
+    <cardId>110</cardId>
+  </card>
+  <card>
+    <cardTitle>Incendiary Rounds</cardTitle>
+    <cardCondition>You may play this card when you set up one of your gang&apos;s fighters who has a Autogun, Autopistol, Assault Rifle, or Heavy Stubber onto the battlefield. Tuck this card under that fighter&apos;s card.</cardCondition>
+    <cardDescription>When this fighter makes an attack with a Autogun, Autopistol, Assault Rifle, or Heavy Stubber, the weapon profile used with that weapon gains the Blaze trait.
+</cardDescription>
+    <cardGang>Orlock</cardGang>
+    <cardId>111</cardId>
+  </card>
+  <card>
+    <cardTitle>Intimidating Appearance</cardTitle>
+    <cardCondition>You may play this card when you set up one of your gang&apos;s fighters onto the battlefield. Tuck this card under that fighter&apos;s card.</cardCondition>
+    <cardDescription>For the duration of the battle all enemy fighters who can see this fighter suffer a -1 modifier to all Cool checks, Willpower checks, and Nerve tests.
+</cardDescription>
+    <cardGang>Orlock</cardGang>
+    <cardId>112</cardId>
+  </card>
+  <card>
+    <cardTitle>Lead By Example</cardTitle>
+    <cardCondition>You may play this card when the Leader of your gang takes an enemy fighter Out of Action.</cardCondition>
+    <cardDescription>Any of your gang&apos;s fighters who are Pinned may stand up for free. Any of your gang&apos;s fighters who are Seriously Injured may recover, taking a Flesh Wound and becoming Pinned. Any of your gang&apos;s fighters who are Broken immediately Rally.
+</cardDescription>
+    <cardGang>Orlock</cardGang>
+    <cardId>113</cardId>
+  </card>
+  <card>
+    <cardTitle>Solidarity</cardTitle>
+    <cardCondition>You may play this at the start of any round.</cardCondition>
+    <cardDescription>For the duration of the round, fighters from your gang automatically pass any Cool checks they make as long as they are within 6&apos;&apos; of another fighter from your gang.
+</cardDescription>
+    <cardGang>Orlock</cardGang>
+    <cardId>114</cardId>
+  </card>
+  <card>
+    <cardTitle>Ultra Shooty</cardTitle>
+    <cardCondition>You may play this card at the beginning of a round.</cardCondition>
+    <cardDescription>For the duration of the round, all of your gang&apos;s fighters on the battlefield gain the Fast Shot skill.
+</cardDescription>
+    <cardGang>Orlock</cardGang>
+    <cardId>115</cardId>
+  </card>
+  <card>
+    <cardTitle>Blood Cleansers</cardTitle>
+    <cardCondition>You may play this card when you set up one of your gang&apos;s fighters onto the battlefield. Tuck this card under that fighter&apos;s card.</cardCondition>
+    <cardDescription>This fighter is unaffected by the Toxin, Gas, and Enervating traits. When this fighter makes a recovery test, they are considered to be assisted even when they are alone.</cardDescription>
+    <cardGang>VanSaar</cardGang>
+    <cardId>116</cardId>
+  </card>
+  <card>
+    <cardTitle>Comm Burst</cardTitle>
+    <cardCondition>You may play this at the start of any round.</cardCondition>
+    <cardDescription>For the duration of this round, Group Activation and Leading by Example have unlimited range for your gang&apos;s fighters, and any of your gang&apos;s Broken fighters attempting to Rally add 1 for each Active fighter from your gang remaining on the battlefield instead of the usual 3&apos;&apos; distance.</cardDescription>
+    <cardGang>VanSaar</cardGang>
+    <cardId>117</cardId>
+  </card>
+  <card>
+    <cardTitle>Cortical Stimulants</cardTitle>
+    <cardCondition>You may play this card when you set up one of your gang&apos;s fighters onto the battlefield. Tuck this card under that fighter&apos;s card.</cardCondition>
+    <cardDescription>This fighter passes any Intelligence check they are required to make, and adds +1 to detect hidden enemy fighters.</cardDescription>
+    <cardGang>VanSaar</cardGang>
+    <cardId>118</cardId>
+  </card>
+  <card>
+    <cardTitle>Enhanced Auspexes</cardTitle>
+    <cardCondition>You may play this card at the start of any round.</cardCondition>
+    <cardDescription>Until the end of this round your gang&apos;s fighters have a 360° vision arc, gain a +1 bonus to detect hidden enemy fighters, and gain +1 to hit with all attacks.</cardDescription>
+    <cardGang>VanSaar</cardGang>
+    <cardId>119</cardId>
+  </card>
+  <card>
+    <cardTitle>Experimental Powercell</cardTitle>
+    <cardCondition>You may play this card when you set up one of your gang&apos;s fighters onto the battlefield. Tuck this card under that fighter&apos;s card.</cardCondition>
+    <cardDescription>Select one of the fighter&apos;s weapons that has the Melee trait. That weapon gains the Power, Shock, and Pulverize traits if it does not already have them.</cardDescription>
+    <cardGang>VanSaar</cardGang>
+    <cardId>120</cardId>
+  </card>
+  <card>
+    <cardTitle>Experimental Rig</cardTitle>
+    <cardCondition>You may play this card when you set up one of your gang&apos;s fighters onto the battlefield. Select one of the fighter&apos;s ranged weapons, and tuck this card under that fighter&apos;s card.</cardCondition>
+    <cardDescription>The selected weapon&apos;s long range is increased by 6&apos;&apos;, and its Strength is increased by 1. If the weapon has the Plentiful trait it loses it; if the weapon does not have the Plentiful trait it gains the Scarce trait.</cardDescription>
+    <cardGang>VanSaar</cardGang>
+    <cardId>121</cardId>
+  </card>
+  <card>
+    <cardTitle>Hyper Auto Loader</cardTitle>
+    <cardCondition>You may play this card when activating one of your gang&apos;s Active fighters who has a Rapid Fire weapon that is not Out of Ammo.</cardCondition>
+    <cardDescription>Select one of the fighter&apos;s weapons with the Rapid Fire trait and make a ranged attack with it; you may roll up to two extra Firepower dice. Ignore any Ammo symbols rolled. After the attack is resolved the weapon is Out of Ammo and the fighter&apos;s activation ends.</cardDescription>
+    <cardGang>VanSaar</cardGang>
+    <cardId>122</cardId>
+  </card>
+  <card>
+    <cardTitle>Medical Protocols</cardTitle>
+    <cardCondition>You may play this card at the start of any End phase.</cardCondition>
+    <cardDescription>For the duration of this End phase when any of your gang&apos;s fighters assists a friendly fighter&apos;s Recovery test you may roll an extra Injury dice and discard one before deciding which to keep.</cardDescription>
+    <cardGang>VanSaar</cardGang>
+    <cardId>123</cardId>
+  </card>
+  <card>
+    <cardTitle>Mesh Underlay</cardTitle>
+    <cardCondition>You may play this card when you set up one of your gang&apos;s fighters onto the battlefield. Tuck this card under that fighter&apos;s card.</cardCondition>
+    <cardDescription>This fighter&apos;s armor save is never worse than a 5+ regardless of modifiers such as AP.</cardDescription>
+    <cardGang>VanSaar</cardGang>
+    <cardId>124</cardId>
+  </card>
+  <card>
+    <cardTitle>Overcharger</cardTitle>
+    <cardCondition>You may play this card when activating one of your gang&apos;s Active fighters who has a Plasma weapon that is not Out of Ammo.</cardCondition>
+    <cardDescription>Select one of the fighter&apos;s Plasma weapons that is not Out of Ammo. Until the end of the round that weapon loses the Scarce and Unstable traits.</cardDescription>
+    <cardGang>VanSaar</cardGang>
+    <cardId>125</cardId>
+  </card>
+  <card>
+    <cardTitle>Ultra Accuracy</cardTitle>
+    <cardCondition>You may play this card at the beginning of a round.</cardCondition>
+    <cardDescription>For the duration of the round, all of your gang&apos;s fighters on the battlefield gain the Ballistics Expert skill.</cardDescription>
+    <cardGang>VanSaar</cardGang>
+    <cardId>126</cardId>
+  </card>
+  <card>
+    <cardTitle>WarForge</cardTitle>
+    <cardCondition>You may play this card at the start of the battle after setting up your gang.</cardCondition>
+    <cardDescription>For the duration of the battle your gang&apos;s fighters add a +1 modifier to any Ammo checks they are required to take.</cardDescription>
+    <cardGang>VanSaar</cardGang>
+    <cardId>127</cardId>
+  </card>
+    <card>
+    <cardTitle>...Click</cardTitle>
+    <cardCondition>Play this card after an enemy fighter completes an attack with a ranged weapon</cardCondition>
+    <cardDescription>The weapon immediately runs Out of Ammo, as if it had failed an Ammo check.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>1</cardId>
+  </card>
+  <card>
+    <cardTitle>A Good Day</cardTitle>
+    <cardCondition>Play at the start of the game after both sides have set up.</cardCondition>
+    <cardDescription>Choose a Champion or Leader model in your crew. Tuck this card under that fighter’s card. For the duration of the game, Cool checks for other fighters from your gang have a +2 modifier if they are within 3&quot; of the chosen Champion or Leader</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>2</cardId>
+  </card>
+  <card>
+    <cardTitle>Adrenaline Surge</cardTitle>
+    <cardCondition>Play when activating a fighter.</cardCondition>
+    <cardDescription>The fighter can make one additional action this turn.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>3</cardId>
+  </card>
+  <card>
+    <cardTitle>Battle Madness</cardTitle>
+    <cardCondition>Play instead of activating a fighter</cardCondition>
+    <cardDescription>Choose a Broken Fighter from either gang. They immediately make a ranged attack against the closest fighter they can see, friend or foe. If they are in base contact with another fighter, they make close combat attacks instead.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>4</cardId>
+  </card>
+  <card>
+    <cardTitle>Beast Lure</cardTitle>
+    <cardCondition>A fighter can spend an action to play this card.</cardCondition>
+    <cardDescription>Place the Beast’s Lair marker within 3’’ of this fighter. Then, they can move up to D6’’. If they end the action within 6’’ of the lair, there is a chance they will be attacked as normal.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>5</cardId>
+  </card>
+  <card>
+    <cardTitle>Blackout</cardTitle>
+    <cardCondition>Play this card at the start of any round.</cardCondition>
+    <cardDescription>For the duration of this round, ranged attacks have an additional -1 modifier if made against targets between 6’’ and 12’’ away, or a -2 modifier if made against targets more than 12’’ away. Attackers using an infra-scope or photo-goggles, or targeting a fighter with a Blaze marker, ignore these penalties.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>6</cardId>
+  </card>
+  <card>
+    <cardTitle>Blazing Fury</cardTitle>
+    <cardCondition>Play this card when activating a fighter.</cardCondition>
+    <cardDescription>. For the duration of this fighter&apos;s turn, the Shoot action is treated as Simple rather than Basic.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>7</cardId>
+  </card>
+  <card>
+    <cardTitle>Blood Debt</cardTitle>
+    <cardCondition>Play this card when one of your fighters is taken Out of Action by an enemy fighter&apos;s attack.</cardCondition>
+    <cardDescription>For the rest of the battle, add 1 to the result of any hit rolls for fighters from your gang when they target the attacker. Tuck this card under the attacker’s Fighter card as a reminder.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>8</cardId>
+  </card>
+  <card>
+    <cardTitle>Burst of Courage</cardTitle>
+    <cardCondition>Play this card when making a Cool check for a fighter.</cardCondition>
+    <cardDescription>The fighter automatically passes the check, and any more Cool checks they are required to make until the end of the round.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>9</cardId>
+  </card>
+  <card>
+    <cardTitle>Chain Attacks</cardTitle>
+    <cardCondition>Play when a fighter takes an enemy Out of Action with a Melee attack.</cardCondition>
+    <cardDescription>The activating fighter can move up to D6’’ and make a Fight Basic action. Their activation then immediately ends.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>10</cardId>
+  </card>
+  <card>
+    <cardTitle>Combat Drugs</cardTitle>
+    <cardCondition>Play when a fighter makes a melee attack.</cardCondition>
+    <cardDescription>For the duration of this turn, the fighter gains D3 additional attacks. However, should the fighter gain the full 3 additional attacks, they will automatically suffer a Flesh Wound at the end of their activation</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>11</cardId>
+  </card>
+  <card>
+    <cardTitle>Crossfire</cardTitle>
+    <cardCondition>Play this card when a fighter makes a ranged attack against a target who has already been shot at by a friendly fighter.</cardCondition>
+    <cardDescription>The hit roll succeeds automatically</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>12</cardId>
+  </card>
+  <card>
+    <cardTitle>Dangerous Footing</cardTitle>
+    <cardCondition>Play when your opponent activates a fighter.</cardCondition>
+    <cardDescription>Immediately place a Pitfall Crater marker beneath the fighter. The fighter must take an Initiative test. If the test is passed, the fighter makes a Move action to safety and their activation continues. If the Initiative test is failed, the fighter falls into the crater and is immediately taken Out of Action. The pitfall Crater remains in place for the duration of the battle.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>13</cardId>
+  </card>
+  <card>
+    <cardTitle>Deadlock</cardTitle>
+    <cardCondition>Play this card at the start of any round. Note: Zone Mortalis only</cardCondition>
+    <cardDescription>Choose a closed door anywhere on the board. For the duration of this round, the door cannot be opened in any way.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>14</cardId>
+  </card>
+  <card>
+    <cardTitle>Desperate Effort</cardTitle>
+    <cardCondition>Play when it is your turn to activate a fighter, but none of your fighters have Ready markers.</cardCondition>
+    <cardDescription>Pick one of your fighters and activate them as though they had a Ready marker. At the end of the action, they are Pinned.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>15</cardId>
+  </card>
+  <card>
+    <cardTitle>Distraction</cardTitle>
+    <cardCondition>Play when your opponent activates a fighter.</cardCondition>
+    <cardDescription>The opposite player must make a Willpower check for the fighter. If the check is failed, the fighter can only make one action this turn, instead of two</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>16</cardId>
+  </card>
+  <card>
+    <cardTitle>Double-Fisted</cardTitle>
+    <cardCondition>Play when a fighter makes a ranged attack</cardCondition>
+    <cardDescription>. For the duration of the ranged attack, the fighter can attack with two ranged weapons, resolving a full attack with each, one after the other. Both must be made against the same target.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>17</cardId>
+  </card>
+  <card>
+    <cardTitle>Emergency Seal</cardTitle>
+    <cardCondition>Play instead of activating a fighter. Note: Zone Mortalis only.</cardCondition>
+    <cardDescription>Ductways cannot be used for the duration of this round – they are treated as not being on the board at all.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>18</cardId>
+  </card>
+  <card>
+    <cardTitle>Fall Back</cardTitle>
+    <cardCondition>Play this card when activating a fighter</cardCondition>
+    <cardDescription>This fighter may immediately make a Retreat (Basic) action without having to make an Initiative check. Additionally, each enemy fighter that was Engaging them is unable to make any Reaction attacks.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>19</cardId>
+  </card>
+  <card>
+    <cardTitle>Fearsome Reputation</cardTitle>
+    <cardCondition>) Play after one of your fighters puts an enemy Out of Action.</cardCondition>
+    <cardDescription>For the rest of the game, any nerve checks made for enemy fighters within 8” of them have a -2 modifier.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>20</cardId>
+  </card>
+  <card>
+    <cardTitle>Fire Discipline</cardTitle>
+    <cardCondition>Play this card at the start of the battle, after setting up your gang.</cardCondition>
+    <cardDescription>For the duration of the battle, ranged attacks made by your fighters only trigger an Ammo check if the Firepower dice rolls an Ammo symbol and the hit roll is a success.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>21</cardId>
+  </card>
+  <card>
+    <cardTitle>Frag Trap</cardTitle>
+    <cardCondition>Play this at the start of the battle, when setting up your gang.</cardCondition>
+    <cardDescription>Pick any of your fighters to carry the frag trap, and put this card under their Fighter card. Once during the game, the fighter, as long as they are Active, can make this action: Set Frag Trap (Double) – Place a Frag Trap marker within 1’’ of the fighter. Then they can move up to D6’’. If the fighter goes Out of Action before making this action, roll a D6. On a 1, the trap triggered (centred on the fighter&apos;s base). On a 2-3, place a Frag Trap marker where the fighter stood. On a 4+, discard this card.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>22</cardId>
+  </card>
+  <card>
+    <cardTitle>Group Tactics</cardTitle>
+    <cardCondition>Play this card when it is your turn, before activating any fighters.</cardCondition>
+    <cardDescription>Instead of activating one fighter, activate up to three fighters (in the same way as making a Group activation)</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>23</cardId>
+  </card>
+  <card>
+    <cardTitle>Having a Bad Day</cardTitle>
+    <cardCondition>Play at the start of the game after both sides have set up.</cardCondition>
+    <cardDescription>Choose a Champion or Leader model in your opponent’s crew. For the duration of the game, Cool checks for other fighters from the opposing gang have a -2 modifier while that fighter is within 3’’ of the chosen Champion or Leader</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>24</cardId>
+  </card>
+  <card>
+    <cardTitle>Healthy Paranoia</cardTitle>
+    <cardCondition>Play when activating a fighter</cardCondition>
+    <cardDescription>For the rest of the battle, the fighter have 360° vision arc.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>25</cardId>
+  </card>
+  <card>
+    <cardTitle>Hidden Passage</cardTitle>
+    <cardCondition>Play this card at the start of your turn, immediately before activating a fighter. Note: Zone Mortalis only, see page 126.</cardCondition>
+    <cardDescription>Place an unused Ductway marker anywhere on the board, following the normal rules for placing a ductway.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>26</cardId>
+  </card>
+  <card>
+    <cardTitle>Hive Tremors⁽ W⁾</cardTitle>
+    <cardCondition>Play at the start of any round.</cardCondition>
+    <cardDescription>Every Active fighter on the table must make an Initiative test – any who fail are Pinned. After all fighters have tested, place D3 additional loot caskets anywhere on the table not within 6’’ of a fighter. Finally, if the game uses a Zone Mortalis scenario, place D3 spare ductways across any walls of your choice. If the game uses a Sector Mechanicus scenario, remove D3 ladders of your choice.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>27</cardId>
+  </card>
+  <card>
+    <cardTitle>Just Add Nails</cardTitle>
+    <cardCondition>Play when making an attack with a frag grenade, before rolling to hit.</cardCondition>
+    <cardDescription>The grenade’s Blast (3”) trait becomes Blast (5”).</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>28</cardId>
+  </card>
+  <card>
+    <cardTitle>Last Gasp</cardTitle>
+    <cardCondition>Play this card when one of your active fighters is taken Out of Action</cardCondition>
+    <cardDescription>Before the fighter is removed from play, they can immediately make an attack. This is a close combat attack if they are Engaged, otherwise it is a ranged attack. If they are equipped with a grenade that has the Blast trait, and the Blast marker is centred on them, it will not scatter. As soon as the attack has been resolved, the fighter is removed from play</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>29</cardId>
+  </card>
+  <card>
+    <cardTitle>Lucky Find</cardTitle>
+    <cardCondition>Play this card when activating a fighter with a weapon that is Out of Ammo.</cardCondition>
+    <cardDescription>One of the fighter&apos;s weapons is automatically reloaded at the cost of one action – no Ammo check is required.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>30</cardId>
+  </card>
+  <card>
+    <cardTitle>Lucky Lho-stick Case</cardTitle>
+    <cardCondition>Play this card when a friendly fighter fails an armour save.</cardCondition>
+    <cardDescription>The fighter can re-roll the armour save, ignoring any negative modifiers (including Armour Penetration).</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>31</cardId>
+  </card>
+  <card>
+    <cardTitle>Makeshift Armour</cardTitle>
+    <cardCondition>One of your fighters can spend an action to play this card.</cardCondition>
+    <cardDescription>Tuck this card under the fighter&apos;s card; while it is there, their armour save is treated as one point better than it is. If any save roll for the fighter is a 1 (before modifiers), discard this card after resolving the attack(s).</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>32</cardId>
+  </card>
+  <card>
+    <cardTitle>Master Switch</cardTitle>
+    <cardCondition>Play this card instead of activating a fighter. Note: Zone Mortalis only.</cardCondition>
+    <cardDescription>Every door on the board that does not have a door terminal either opens or closes. They must all do the same, i.e., this card cannot be used to open some doors and close others.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>33</cardId>
+  </card>
+  <card>
+    <cardTitle>Melta Trap</cardTitle>
+    <cardCondition>Play this at the start of the battle, when setting up your gang.</cardCondition>
+    <cardDescription>Pick any of your fighters to carry the frag trap, and put this card under their Fighter card. Once during the game, the fighter, as long as they are Active, can make this action: Set Melta Trap (Double) – Place a Melta Trap marker within 1’’ of the fighter. Then they can move up to D6’’. If the fighter goes Out of Action before making this action, roll a D6. On a 1, the trap triggered (centred on the fighter&apos;s base). On a 2-3, place a Melta Trap marker where the fighter stood. On a 4+, discard this card.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>34</cardId>
+  </card>
+  <card>
+    <cardTitle>Nerves of Steel</cardTitle>
+    <cardCondition>Play when a fighter makes a ranged attack.</cardCondition>
+    <cardDescription>The fighter may ignore normal Target Priority rules and may instead target any eligible enemy fighter they wish without having to pass a Cool check.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>35</cardId>
+  </card>
+  <card>
+    <cardTitle>Point-Blank Shot</cardTitle>
+    <cardCondition>Play this card when a fighter makes a Fight action or a Charge action.</cardCondition>
+    <cardDescription>Pick one of the fighter’s ranged weapons that does not have the Blast trait or Template trait. For the duration of this turn, that weapon can be used in close combat in the same way as a pistol.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>36</cardId>
+  </card>
+  <card>
+    <cardTitle>Proper Preparation</cardTitle>
+    <cardCondition>Play this card before setting up the gang at the start of the battle.</cardCondition>
+    <cardDescription>Pick one of your fighters and put this card under their Fighter&apos;s card. For the duration of the battle, this fighter&apos;s weapons gain the Plentiful trait unless they already have the Scarce trait, in which case their weapons are counted as not being Scarce.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>37</cardId>
+  </card>
+  <card>
+    <cardTitle>Rapid Fire</cardTitle>
+    <cardCondition>Play this card when activating a fighter.</cardCondition>
+    <cardDescription>This turn, the fighter may make two Fire (Basic) actions, provide they use the same weapon for both and make no other actions for any reason. However, at the end of their activation, the weapon counts as automatically having failed an Ammo check.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>38</cardId>
+  </card>
+  <card>
+    <cardTitle>Reaction Fire</cardTitle>
+    <cardCondition>Play when an enemy fighters is activated, before they make their first action.</cardCondition>
+    <cardDescription>Pick a fighter from your gang – that fighter can immediately make a Shoot (Basic) action against the activating enemy model, as long as they are in range and line of sight.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>39</cardId>
+  </card>
+  <card>
+    <cardTitle>Ricochet⁽ G ⁾</cardTitle>
+    <cardCondition>Play this card after making an unsuccessful hit roll for a ranged attack that does not have the Blast or Template trait.</cardCondition>
+    <cardDescription>Pick another fighter within 5’’ of the target, even if they are not visible to the attacker, and roll to hit against them. Do not roll the Firepower dice again.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>40</cardId>
+  </card>
+  <card>
+    <cardTitle>Rigged Door</cardTitle>
+    <cardCondition>Play this card immediately after an enemy fighter makes an action. Note: Zone Mortalis only, see page 126</cardCondition>
+    <cardDescription>Pick any door on the board and either close or open it. If closing a door and there is a fighter standing in the doorway, they must test to see whether they avoid closing door as normal.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>41</cardId>
+  </card>
+  <card>
+    <cardTitle>Secret Cache</cardTitle>
+    <cardCondition>Play this card instead of activating a fighter</cardCondition>
+    <cardDescription>Set up an ammo cache anywhere on the battlefield</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>42</cardId>
+  </card>
+  <card>
+    <cardTitle>Seize the Initiative</cardTitle>
+    <cardCondition>Play this card at the beginning of any round, before rolling for Priority.</cardCondition>
+    <cardDescription>You immediately take Priority this turn without any dice being rolled.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>43</cardId>
+  </card>
+  <card>
+    <cardTitle>Slippery</cardTitle>
+    <cardCondition>Play this card when activating a fighter.</cardCondition>
+    <cardDescription>Put this card under the active fighter&apos;s Fighter card. Until the end of the battle, this fighter treats the Crawl Through action as (Basic) rather than (Double).</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>44</cardId>
+  </card>
+  <card>
+    <cardTitle>Steel Fury</cardTitle>
+    <cardCondition>Play this card at the start of any round.</cardCondition>
+    <cardDescription>For the duration of this round, fighters from this gang count the Fight (Basic) action as a Fight (Simple) action.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>45</cardId>
+  </card>
+  <card>
+    <cardTitle>Sterner Stuff</cardTitle>
+    <cardCondition>Play this card instead of activating a fighter.</cardCondition>
+    <cardDescription>Make a Rally check for each Broken fighter in your gang, as though it was the End phase.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>46</cardId>
+  </card>
+  <card>
+    <cardTitle>Sump Slump</cardTitle>
+    <cardCondition>Play at the start of any turn.</cardCondition>
+    <cardDescription>Immediately remove D3 Barricades of your choice from anywhere on the board.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>47</cardId>
+  </card>
+  <card>
+    <cardTitle>Suppressing Fire</cardTitle>
+    <cardCondition>Play this card after making an unsuccessful hit roll for a ranged weapon.</cardCondition>
+    <cardDescription>The target is Pinned, even though they were not hit by the attacks.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>48</cardId>
+  </card>
+  <card>
+    <cardTitle>Tech Override</cardTitle>
+    <cardCondition>Play this card when a friendly fighter makes an Access Terminal action or Bypass Lock action, or when rolling to see if a friendly fighter triggers a booby trap.</cardCondition>
+    <cardDescription>If making an Access Terminal action or Bypass Lock action, the intelligence check is passed automatically. If rolling to see whether a booby trap is triggered, you can choose the result instead of rolling.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>49</cardId>
+  </card>
+  <card>
+    <cardTitle>They’re Everywhere !</cardTitle>
+    <cardCondition>Play this card instead of activating a fighter</cardCondition>
+    <cardDescription>Each enemy fighter who is within 4’’ of two or more fighters from your gang must make a Cool check. If the check is failed, the enemy fighter is Pinned</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>50</cardId>
+  </card>
+  <card>
+    <cardTitle>Thundering Charge</cardTitle>
+    <cardCondition>Play when a fighter makes a Charge action, before they move.</cardCondition>
+    <cardDescription>Double the fighter’s Move instead of adding D3”.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>51</cardId>
+  </card>
+  <card>
+    <cardTitle>Trusty Backup</cardTitle>
+    <cardCondition>Play this card when activating a fighter. P</cardCondition>
+    <cardDescription>r. Put this card under the active fighter’s Fighter card. Until the end of the battle, this fighter has an additional stub gun.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>52</cardId>
+  </card>
+  <card>
+    <cardTitle>Violent-Minded</cardTitle>
+    <cardCondition>Play this card when activating a fighter.</cardCondition>
+    <cardDescription>This turn, the fighter can make an additional action (usually three rather than two), as long as at least one of their actions is Shoot or Fight.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>53</cardId>
+  </card>
+  <card>
+    <cardTitle>What’s a few Teeth ?</cardTitle>
+    <cardCondition>Play this when a friendly fighter suffers a Flesh Wound.</cardCondition>
+    <cardDescription>The Flesh Wound is ignored. Any other effects of the injury still apply.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>54</cardId>
+  </card>
+  <card>
+    <cardTitle>You’re coming with Me ! </cardTitle>
+    <cardCondition>Play when a fighter is taken Out of Action by a close combat attack.</cardCondition>
+    <cardDescription>The chosen fighter may make a single close combat attack against the enemy that took them Out of Action. They are then removed from play as normal.</cardDescription>
+    <cardGang>General</cardGang>
+    <cardId>55</cardId>
+  </card>
+</root>

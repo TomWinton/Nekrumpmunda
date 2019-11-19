@@ -1,0 +1,116 @@
+#selectedCards, #cardSelectionOptions, #cardOptions
+{
+	
+	margin:5px;
+	padding:5px;
+	border: 4px dashed #008F11;
+	text-align:center;
+	
+font-family: 'Alata', sans-serif;
+}
+#footer
+{
+	font-size:16px;
+	font-family: 'Orbitron', sans-serif;
+color:#FD5F00;
+}
+h2
+{
+font-family: 'Orbitron', sans-serif;
+color:#FD5F00;
+
+}
+body
+{
+	background-color:#0D0208;
+}
+
+#selectRandom
+{
+	width:95%;
+	background-color:#784668;
+	font-size:22px;
+	font-weight:bold;
+	margin:auto;
+	margin-top:10px;
+	color:white;
+	cursor:pointer;
+	font-family: 'Orbitron', sans-serif;
+	
+}
+.subtitle
+{
+	font-size:22px;
+	clear:both;
+	display:block;
+	margin-top:5px;
+	font-style:bold;
+	font-family: 'Orbitron', sans-serif;
+
+}
+.cardbox
+{
+	border: 3px solid purple;
+	width:95%;
+	margin:auto;
+	margin-top:10px;
+	background-color:#F5F5F5;
+		
+}
+.cardTitleContainer
+{
+	width:100%;
+	height:auto;
+
+
+}
+.cardTitle
+{
+	
+	width:60%;
+	font-size:30px;
+	font-weight:bold;
+	text-align:left;
+	padding:5px;
+	font-family: 'Orbitron', sans-serif;
+}
+.cardSelect 
+{
+		cursor:pointer;
+		background-color:#008F11;
+		color:white;
+		float:right;
+		width:17%;
+		padding-left:5px;
+		font-size:30px;
+		font-weight:bold;
+		font-family: 'Orbitron', sans-serif;
+}
+.cardDeselect
+{
+		cursor:pointer;
+		background-color:#8B0000;
+		color:white;
+		float:right;
+		width:18%;
+		padding-left:5px;
+		font-size:30px;
+		font-weight:bold;
+		font-family: 'Orbitron', sans-serif;
+	
+}
+.cardDetails
+{
+
+		width:100%;
+		padding:5px;
+		text-align:left;
+		font-size:20px;
+}
+select
+{
+	width:95%;
+	font-size:30px;
+	font-family: 'Orbitron', sans-serif;
+	font-weight:bold;
+}

@@ -1,0 +1,1040 @@
+ <gangs>
+ <div id="ctl00_Content_Neutral_dTacticsCardRepeaterBox">
+        
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl01_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl01_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Acrobatic Charge ( &ne;  )</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl01_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your gang's fighters declares a Charge.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl01_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter may treat difficult terrain, obstacles that are up to 3'' tall, pitfalls, and other fighters as if they were clear terrain while moving during this Charge. 
+        The fighter must end their move with their base not overlapping anything.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl02_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl02_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Adrenaline Surge</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl02_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when activating a fighter.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl02_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The currently activating fighter can make one additional action this turn.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl03_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl03_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Auto-Healer</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl03_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the start of any End phase.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl03_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Choose one of your gang's Seriously Injured fighters. That fighter becomes Pinned.</p>
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl04_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl04_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Battle Madness</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl04_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card instead of activating one of your gang's fighters if there are any Broken enemy fighters on the battlefield. </p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl04_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Choose a Broken enemy fighter. You may immediately activate that fighter as if they had a Ready marker on them and control that fighter for the duration of this activation.</p>
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl05_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl05_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Battle Shock</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl05_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card to interrupt an enemy fighter's Nerve test as soon as it is declared but before it is resolved.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl05_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The interrupted enemy fighter must make their Nerve test on a single D6 and does not gain the normal bonus to their result for having friendly fighters nearby.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl06_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl06_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Beast Lure</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl06_ctl00_TacticsCardLineItem_pCondition" class="content">One of your gang's fighters may spend an action to allow you to play this card. </p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl06_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Place the Beast's Lair marker within 3'' of this fighter and then move this fighter up to D6'' away. 
+    If this fighter ends their action within 6'' of the center of the lair, there is a chance that this fighter will be attacked by the Beast as normal; refer to the Beast Lure special scenario rules.</p>
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl07_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl07_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Blackout</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl07_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the start of any round. </p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl07_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the duration of this round ranged attacks have an additional -1 modifier if made at short range, or a -2 modifier if made at long range. 
+    Attackers using a bionic eye, infra-scope, photo-goggles or similar item, or if targeting a fighter with a Blaze marker, ignore these modifiers.</p>
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl08_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl08_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Blazing Fury</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl08_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when activating a fighter.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl08_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the duration of this fighter's activation they treat the Shoot action as Simple rather than Basic.</p>
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl09_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl09_ctl00_TacticsCardLineItem6_hCardName" class="bottom-line tactics-card-gamma">Blood Debt</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl09_ctl00_TacticsCardLineItem6_pCondition" class="content">You may play this card when one of your fighters is taken Out of Action by an enemy fighter's attack. 
+    Tuck this card under the enemy fighter's card</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl09_ctl00_TacticsCardLineItem6_pDescription" class="top-line-dotted content">For the rest of the battle attackers may add 1 to any hit rolls targeting this fighter. </p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl10_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl10_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Bullet Barrage</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl10_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the start of any round.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl10_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the duration of the round, all attacks made by all fighters on the battlefiled with weapons that have the Rapid Fire trait may roll an additional Firepower dice. However if a weapon's attack fails two or more Ammo checks, that weapon has jammed and cannot be used for the remainder of the battle.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl11_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl11_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Burst of Courage</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl11_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your gang's fighters must make a Nerve test, or a Cool check, or a Willpower check.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl11_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The fighter automatically passes the check and also automatically passes any additional Nerve tests, Cool checks, or Willpower checks they are required to make until the end of the round.</p>
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl12_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl12_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Chain Attacks</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl12_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your gang's fighters moves into base contact with another enemy fighter in the Consolidate step of the close combat sequence.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl12_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter may make a Fight (Basic) action targeting an enemy fighter they are Engaged with as if they successfully Charged that fighter.</p>
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl13_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl13_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">...Click</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl13_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card after an enemy fighter completes an attack with a ranged weapon.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl13_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The enemy fighter's ranged weapon that they just completed their attack with is considered to have failed it's Ammo check.</p>
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl14_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl14_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Climber</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl14_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when activating a fighter. Tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl14_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter gains the benefits of the Clamber skill for the remainder of this battle.</p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl15_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl15_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Close Miss</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl15_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card after one of your gang's fighters makes an unsuccessful hit roll with a ranged weapon.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl15_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The target is Pinned as though they were hit by the ranged attack.</p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl16_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl16_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Combat Drugs Stash</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl16_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your gang's fighters is activated.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl16_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the duration of this fighter's activation, they gain D3 additional Attacks. 
+    However if the fighter gains 3 Attacks, they take a Flesh Wound when their activation ends.</p>
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl17_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl17_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Crossfire</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl17_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when a fighter makes a ranged attack against a target who has already been shot at by a friendly fighter, instead of rolling to hit.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl17_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Do not roll to hit for this fighter's ranged attack, but do roll Firepower dice as normal. The ranged attack automatically hits. </p>
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl18_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl18_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Dangerous Footing</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl18_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card to interrupt an enemy fighter's action when they move 1/2'' or less from the edge of a platform or pitfall.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl18_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The enemy fighter must make a Initiative check to avoid becoming Pinned; if they are Pinned the fighter must make an additional Initiative check to avoid falling as normal. If the fighter becomes Pinned their turn ends immediately, otherwise their action resumes.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl19_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl19_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Deadlock ( &Omega;  )</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl19_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the start of any round.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl19_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Select a closed door anywhere on the battlefield. For the duration of this round the selected door cannot be opened in any way.</p>
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl20_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl20_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Death Trap ( &Omega;  )</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl20_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when an enemy fighter takes an action to open or close a door.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl20_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The enemy fighter must test to see if they are struck by the door, as if they were standing in a closing doorway.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl21_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl21_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Delaying Tactics</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl21_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the beginning of any round, immediately after rolling for Priority.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl21_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">If you have Priority you may change the facing of any of your gang's Active and Engaged fighters currently on the battlefield, and then force an opponent to take Priority for the remainder of the round.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl22_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl22_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Desperate Effort</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl22_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card if it is your turn to activate a fighter, but none of your fighters have Ready markers.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl22_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Pick one of your fighters and activate them as though they had a Ready marker. If the fighter is still Active at the end of their activation they become Pinned.</p>
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl23_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl23_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Distraction</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl23_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when an enemy fighter is activated.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl23_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The activating fighter must make a Willpower check with a -1 penalty. If the check is failed the fighter loses one of their actions this turn.</p>
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl24_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl24_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Diving Charge ( &ne;  )</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl24_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your gang's fighters declares a Charge.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl24_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">If this fighter jumps down to a lower level as part of their Charge they may add +2 to their Initiative check and may Charge an extra D3'' if they succeed. If they move into base contact with an enemy as part of this Charge, an extra Attack dice is gained in the ensuing close combat sequence. This extra Attack dice is resolved as a Strength 5, AP -, 1 Damage attack with the Knockback and Melee traits.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl25_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl25_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Door Remote ( &Omega;  )</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl25_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at any point during one of your fighter's activations. </p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl25_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Pick any unlocked door within 6'' of this fighter and either open or close that door. 
+    If closing a door and there is a fighter standing in the doorway, that fighter must test to see whether they avoid being crushed by the closing door as normal.</p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl26_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl26_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Double Fisted</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl26_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when activating a fighter. Tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl26_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter gains the benefits of the Gunfighter skill for the remainder of this battle.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl27_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl27_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Duck and Cover</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl27_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when activating an Active or Pinned fighter.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl27_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">If this fighter is Pinned they may immediately stand up. 
+    This fighter may make a ranged attack, then make a Standard Move, then become Pinned, and finally end their activation.
+    This cannot be interrupted by abilities or other Tactics Cards that interrupt actions.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl28_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl28_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Emergency Seal ( &Omega;  )</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl28_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card instead of activating a fighter.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl28_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Ductways cannot be used for the duration of this round; they are treated as not being on the battlefield at all.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl29_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl29_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Escape Hatch</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl29_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the start of any round.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl29_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">You may set up an escape hatch on the ground level, within 6'' of the center of the battlefield, and no closer than 1'' to any fighter. 
+    Any fighter in base contact with the escape hatch may take the Escape Via Hatch (Basic) action to be removed from the battlefield. Removed fighters are considered to be Out of Action for the remainder of the battle.</p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl30_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl30_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Fall Back</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl30_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card instead of activating a fighter.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl30_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For each of your gang's Active fighters that are within line of sight of at least one enemy fighter, you may choose to have that fighter become
+    Broken. For each fighter who becomes Broken in this way, you may roll 3D6 and discard one dice before determining the Running For Cover distance for that fighter.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl31_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl31_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Fearsome Reputation</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl31_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when activating a fighter. Tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl31_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter gains the benefits of the Fearsome skill for the remainder of this battle.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl32_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl32_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Fire Discipline</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl32_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the start of the battle after setting up your gang.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl32_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the duration of the battle  ranged attacks made by your fighters only trigger an Ammo check if the Firepower dice rolls an Ammo symbol and the hit roll is a success.</p>
+
+
+
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl33_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl33_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Frag Trap</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl33_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when you set up one of your gang's fighters onto the battlefield. Tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl33_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter is equipped with a Frag Trap; see the gear list for details. </p>
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl34_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl34_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Good Effect On Target</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl34_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your gang's fighters inflicts at least one wound on an enemy fighter with a ranged attack, before Injury dice are rolled.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl34_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The attack's Damage is increased by 1, and the attack gains the Pulverize trait. </p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl35_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl35_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Group Tactics</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl35_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when you would activate a fighter.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl35_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">You may make a Group Activation with up to three of your gang's fighters who are within 12'' of each other.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl36_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl36_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Having a Bad Day</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl36_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the very end of the Deployment step of the Pre-Battle Sequence. Tuck this card under the fighter card of an enemy Leader or Champion deployed onto the battlefield.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl36_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">When this fighter leads a Group Activation, they activate one fewer fighter than normal.</p>
+
+
+
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl37_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl37_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Having A Good Day</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl37_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the start of the game after both sides have set up. Tuck this card under the fighter card a Leader or Champion from your gang who is deployed onto the battlefield.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl37_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">When this fighter leads a Group Activation they may include one additional fighter.</p>
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl38_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl38_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Hidden Ductway ( &Omega;  )</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl38_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the start of your turn immediately before activating a fighter.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl38_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">You may place an unused Ductway marker anywhere on the board, following the normal rules for placing a ductway.</p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl39_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl39_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Hive Tremors</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl39_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the beginning of any round.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl39_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">A Hive Tremor shakes the battlefield; refer to the Hive Tremors special scenario rules</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl40_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl40_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Just Add Nails</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl40_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your gang's fighters is making a ranged attack with a Frag Grenade, before rolling to hit.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl40_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For this attack only, the Frag Grenade loses the Blast (3'') trait and gains the Blast (5'') trait.</p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl41_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl41_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Krakow</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl41_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your gang's fighters has wounded an object (such as a door) or another fighter with a krak grenade.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl41_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The attack's Damage is increased by 2. </p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl42_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl42_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Last Gasp</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl42_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your gang's fighters would be taken Out of Action.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl42_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Before this fighter is removed from play they can immediately make a single ranged or close combat attack. After this attack is resolved, this fighter is taken Out of Action.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl43_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl43_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Lucky Find ( &Psi;  )</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl43_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when activating one of your gang's fighters.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl43_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">You may have this figher end their activation to salvage something valuable from the battlefield debris; 
+    if you do you may add 2D6 x 5 credits to your gang's Stash immediately.</p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl44_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl44_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Lucky Save</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl44_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your gang's fighters fails a save.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl44_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The fighter can re-roll the failed save, ignoring any negative modifiers (including Armour Penetration).</p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl45_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl45_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Makeshift Ladder ( &ne;  )</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl45_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the start of your turn immediately before activating a fighter.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl45_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">You may attach a ladder to a platform anywhere on the battlefield, following the normal rules for placing a ladder.</p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl46_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl46_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Marksmanship</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl46_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when activating a fighter. Tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl46_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter gains the benefits of the Marksman skill for the remainder of this battle.</p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl47_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl47_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Master Switch ( &Omega;  )</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl47_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card instead of activating a fighter.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl47_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Choose A or B: <br />A) open every unlocked closed door on the battlefield.<br />B) close every open door on the battlefield.</p>
+
+
+
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl48_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl48_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Melta Trap</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl48_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when you set up one of your gang's fighters onto the battlefield. Tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl48_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter is equipped with a Melta Trap; see the gear list for details. </p>
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl49_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl49_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">No Mercy</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl49_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card to interrupt a Broken enemy fighter's action as soon as they finish Running For Cover.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl49_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">You may adjust the facing of any or all of your gang's Active fighters to get the Broken enemy fighter into their vision arc. Then any of your gang's Active fighters who can may make a ranged attack targeting that fighter, in whatever order you prefer.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl50_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl50_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Not Quite Dead Yet ( &Psi;  )</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl50_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your fighters suffers a Fatal Injury due to a Lasting Injury roll.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl50_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The fighter suffers a Grievous Injury instead of a Fatal Injury.</p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl51_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl51_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">One In A Million Shot</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl51_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card on one of your gang's fighters who has just completed the Aim action.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl51_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter's next ranged attack is not affected by the rules for Target Priority, and will hit on a 2+ regardless of modifiers.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl52_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl52_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Perseverance</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl52_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your fighters would become Seriously Injured.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl52_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The fighter is not Seriously Injured and suffers a Flesh Wound instead. Any other effects of the injury still apply. If they are Pinned they may immediately stand up.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl53_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl53_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Pew-pew</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl53_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the beginning of any round.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl53_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the duration of the round, all varieties of las weapons (lasguns, laspistols, long-las's, carbine lasguns, etc) gain +6'' Long Range and may use their Short Range bonus at both Short and Long Range.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl54_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl54_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Point-Blank Shot</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl54_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card during the Pick Weapons step of the close combat sequence when one of your gang's fighters is making a close combat attack.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl54_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter may pick one of their ranged weapons to use in this close combat sequence as if that weapon had the Pistol trait. Weapon profiles that have the Blast trait or the Template trait cannot be selected, however.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl55_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl55_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Proper Preparation</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl55_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when you set up one of your gang's fighters onto the battlefield. Tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl55_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the duration of this battle, all of this fighter's ranged weapon profiles lose the Scarce trait if they have it and gain the Plentiful trait if they do not have it.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl56_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl56_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Quick! Everybody Hide</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl56_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the begginning of any round.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl56_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Each fighter in each gang's crew who is at least 6'' away from and not within sight of any enemy fighters may become <b>Hidden</b>, at their controlling player's discretion.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl57_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl57_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Quick Time</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl57_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when activating a fighter. Tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl57_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter's Move is increased by 1'' and their Initiative is improved by 1 step. At the end of each of 
+    this fighter's activations roll a D6; if a 1 is rolled this card is discarded.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl58_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl58_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Reaction Fire</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl58_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card to interrupt an enemy fighter's action as soon as it is declared but before it is carried out.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl58_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Select one of your gang's fighters who has line of sight to and can see the interrupted enemy fighter to immediately make a Shoot action 
+    targeting that enemy fighter. If the enemy fighter is Pinned or Seriously Injured by this attack, 
+    their action is not made and their turn ends immediately.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl59_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl59_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Return To Sender</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl59_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card to interrupt another fighter's action when a Grenade with the Blast or Smoke traits lands within 1'' of one of your fighters.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl59_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Your fighter manages to catch the Grenade and throw it away. The fighter must immediately make a ranged attack using the Grenade's profile. After this ranged attack
+    is resolved, the interrupted fighter resumes their activation.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl60_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl60_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Rigged Door ( &Omega;  )</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl60_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card to interrupt an enemy fighter's action as they move through an open door.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl60_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The door the enemy fighter is moving through closes; the enemy fighter must test to see whether they avoid being crushed by the closing door as normal.</p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl61_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl61_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Secret Cache</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl61_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card instead of activating a fighter.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl61_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Set up an ammo cache anywhere on the battlefield.</p>
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl62_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl62_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Seize the Initiative</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl62_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the beginning of any round, before rolling for Priority.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl62_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">You immediately take Priority this turn without any dice being rolled. If another player has a similar effect that would allow them to take Priority instead, roll off with that player to determine Priority.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl63_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl63_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Sharpened Daggers</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl63_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the beginning of any round.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl63_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the duration of the round, all varieties of knife or dagger (knife, fighting knife, stiletto knife, etc) have their Strength, Armor Piercing, and Damage increased by 1.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl64_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl64_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Slippery ( &Omega;  )</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl64_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card instead of activating a fighter.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl64_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Select a Ductway on the battlefield. For the duration of the battle, fighters treat the Crawl Through action as Basic rather than Double 
+    when moving through the selected Ductway.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl65_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl65_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Snap Fire</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl65_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card to interrupt an enemy fighter's action when they move into the vision arc of one of your gang's Active fighters.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl65_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Your fighter may make a ranged attack targeting the interrupted enemy fighter, with a -1 modifier.  Weapons with the Blast or Template traits cannot be used to make this attack. If the enemy fighter is still Active after this attack,
+    their action resumes.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl66_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl66_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Spoils</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl66_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your fighters completes a Coup d' Grace  action against an opponent. </p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl66_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter takes a single item from the opponent; the item is removed from the enemy fighter's card and added to this fighter's card for the remainder of the battle. After the battle the item is moved to your gang's Stash if this fighter survived, was not Captured, and still has the item. Armor, Bionic, Mutation, and Unweildy items cannot be selected. </p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl67_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl67_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Steel Fury</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl67_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the beginning of any round.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl67_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the duration of the round, all varieties of bladed weapons (daggers, swords, axes, etc) gain +1 to hit in close combat and gain the Scathing trait.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl68_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl68_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Sterner Stuff</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl68_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card instead of activating a fighter.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl68_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Each of your gang's fighters who is Broken may make a Rally check immediately with a +2 bonus.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl69_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl69_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Sump Slump</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl69_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this at the beginning of the game after the battlefield has been set up and before any fighters are deployed onto the battlefield.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl69_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">You may immediately remove or knock down (your choice) up to D3+1 removeable barricades, obstacles, or railings of your choice from anywhere on the battlefield.</p>
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl70_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl70_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Suppressing Fire</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl70_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when activating an Active fighter with a Rapid Fire ranged weapon.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl70_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Select one of the fighter's ranged weapons with the Rapid Fire trait that is not Out of Ammo and roll the weapon's Firepower dice to determine a number of hits; ignore the Ammo symbol if it is rolled. You may then target up to that many Active enemy fighters within line of sight and in range of the weapon. Each of the targeted enemy fighters becomes Pinned, and this fighter's activation ends.</p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl71_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl71_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Swingline ( &ne;  )</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl71_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your gang's fighters who is allowed to use wargear is falling.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl71_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The fighter stops falling. You may set up the fighter anywhere on the battlefield that is within 12'' of where they began their fall and not behind an obstruction; as part of this movement the fighter may go up or down levels and can engage enemy fighters by moving into base contact with them in which case they are considered to be charging.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl72_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl72_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Tactical Reload</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl72_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when activating one of your gang's fighters who has a weapon that is Out of Ammo.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl72_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">One of the Out of Ammo weapons on this fighter's card is automatically reloaded without making an Ammo check and without costing an action, even if it has the Scarce trait or is a Grenade. Note that this does not work on Limited items that have gone Out of Ammo as they are deleted from a fighter's card when they run Out of Ammo.</p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl73_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl73_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Tech Override</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl73_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your gang's fighters must make an Intelligence check to interact with a device, terminal, loot box, or similar.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl73_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The Intelligence check is passed automatically. If there is more than one possible outcome when interacting with the object, you may select the outcome you prefer.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl74_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl74_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">They're Everywhere!</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl74_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card instead of activating a fighter.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl74_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Select up to D3+1 fighters on the battlefield (belonging to any gang). For each selected fighter, you may change that fighter's facing to any direction you prefer.</p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl75_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl75_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Thundering Charge</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl75_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your gang's fighters declares a Charge action.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl75_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The fighter may Charge up to double their Move Characteristic in inches instead of Move + D3''.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl76_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl76_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Trap Chute ( &Omega;  )</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl76_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when an enemy fighter crawls through a Ductway</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl76_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The enemy fighter must make an Initiative check. If they succeed roll a D6; on a 3 or less place them within 1'' of the ductway on the side they 
+    entered from, on a 4+ place them within 1'' of the other side of the ductway. If they fail, the fighter is taken Out of Action as if they had fallen into a Pitfall.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl77_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl77_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Trapped Console</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl77_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when an enemy fighter must make an Intelligence check to interact with a device or terminal.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl77_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The enemy fighter suffers a -4 modifier to their check. If the check is failed, in addition to any other outcome caused 
+    by failing the check, the fighter suffers an automatic Strength 5, AP -1, 2 Damage hit.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl78_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl78_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Trusty Backup</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl78_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when you activate one of your gang's fighters. Tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl78_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter gains a free Stub Pistol with Dumdum rounds for the remainder of the battle. If this fighter survives the battle and is not Captured, you may add this item to your gang's Stash after the battle.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl79_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl79_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Vacuum Chamber ( &Omega;  )</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl79_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card instead of activating a fighter.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl79_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Select a room that is fully enclosed and has only one door, which must be is closed. 
+    All of the air in the enclosed room is rapidly sucked out through vents. 
+    Until the door is opened, each fighter in this room suffers an automatic Flesh Wound at the end of each Action phase. 
+    When the door is opened every Active fighter in the room and / or within D6'' and line of sight of the doorway become Pinned.</p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl80_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl80_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Violent-Minded</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl80_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when activating one of your gang's fighters.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl80_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the duration of this activation, this fighter adds a +1 modifier when they roll to hit and also when they roll to wound, with either ranged or close combat attacks.</p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl81_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl81_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">What's A Few Teeth?</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl81_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your gang's fighters would suffer a Flesh Wound.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl81_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The fighter does not suffer the Flesh Wound. Any other effects of the injury still apply. If they are Pinned they may immediately stand up.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl82_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl82_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Worse Than It Looked ( &Psi;  )</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl82_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when an opposing fighter suffers a Permanent Injury due to a Lasting Injury roll.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl82_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The fighter suffers a Fatal Injury instead of a Permanent Injury. <i>Note: this is considered to be a 'dick' move.</i></p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl83_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl83_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">You!</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl83_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when activating a fighter.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl83_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Select an enemy fighter within line of sight of the activated fighter and tuck this card under that enemy fighter's card, and then the activating fighter's turn ends immediately. 
+    For the duration of the battle your gang's fighters may ignore Target Priority when shooting at that enemy fighter and gain +1 to wound that enemy fighter with all attacks.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Neutral_rptTacticsCardControls_ctl84_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Neutral_rptTacticsCardControls_ctl84_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">You're Coming With Me!</h4>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl84_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when a fighter attempts to Coup d' Grace one of your gang's fighters.</p>
+<p id="ctl00_Content_Neutral_rptTacticsCardControls_ctl84_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Before your gang's fighter is removed from play, they stand up and move into base contact with the enemy that Coup d' Graced them, 
+    and makes a Fight action targeting that enemy fighter. 
+    After the Resolve Hits step of the close combat sequence for this attack is completed, before the Enemies Make Reaction Attacks step, 
+    this fighter is taken Out of Action.</p>
+
+</div>
+            
+            
+    </div>
+</div>
+
+        <H3 id="Cawdor" class="top-line-dotted break-before">Cawdor</H3><div id="ctl00_Content_Cawdor_dTacticsCardRepeater" class="table">
+    <div id="ctl00_Content_Cawdor_dTacticsCardRepeaterBox">
+        
+            
+                <div id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl01_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl01_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Blessed Visions</h4>
+<p id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl01_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when activating a fighter. Tuck this card under that fighter's card.</p>
+<p id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl01_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter gains  the benefits of the Inspirational skill for the remainder of the battle.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl02_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl02_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Chainsword Virtuoso</h4>
+<p id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl02_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when you set up one of your gang's fighters onto the battlefield. Tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl02_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the duration of this battle, all of this fighter's Chainsword weapon profiles gain the Deadly trait.</p>
+</div>
+            
+                <div id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl03_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl03_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Deadmen Walking</h4>
+<p id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl03_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this at the beginning of any End phase.</p>
+<p id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl03_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Your gang does not have to make a Bottle test this round. Any of your gang's fighters who are prone immediately stand up.
+    Any of your gang's fighters who are Broken automatically Rally. Then every Active fighter on your gang must move 2D3'' towards the nearest enemy, and will move into base contact with an enemy fighter if able.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl04_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl04_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Divine Motivation</h4>
+<p id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl04_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when you set up one of your gang's fighters onto the battlefield. Tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl04_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">When activated this fighter may attempt a Willpower check if they are Active. If this check is successful the fighter gains one additional action that they may use during this activation, but if the check is failed the fighter begins raving fanatically and takes a Charge action.</p>
+</div>
+            
+                <div id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl05_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl05_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Faith Through Fear</h4>
+<p id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl05_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your fighters fails a Leadership, Cool, or Willpower check (including a Nerve test).</p>
+<p id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl05_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The fighter is considered to have passed their check, and until the end of the current round they also automatically pass any other Leadership, Cool, or Willpower checks they must make.</p>
+
+ </div>
+            
+                <div id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl06_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl06_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Faith Through Fire</h4>
+<p id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl06_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the start of any round.</p>
+<p id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl06_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the duration of this round, your gang's fighters that have a Blaze marker on them may ignore the Blaze marker until the end of the 
+    Action phase, moving and taking actions as normal. In addition, all of their close combat attacks that have the Melee trait gain the Blaze trait during
+    their activation. At the end of the Action phase, each of your fighters who ignored their Blaze marker suffer an immediate Strength 3, AP -1, Damage 1 hit.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl07_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl07_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">For The Lost!</h4>
+<p id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl07_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your gang's fighters is taken Out of Action.</p>
+<p id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl07_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Each of your gang's Engaged fighters may select one of their weapons that has the Melee trait and make a single attack with it
+     against an enemy fighter they are Engaged with; enemy fighter(s) attacked in this way do not make Reaction attacks.</p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl08_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl08_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Glorious Firebrand</h4>
+<p id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl08_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when you set up one of your gang's fighters onto the battlefield. Select one of the fighter's ranged weapons that has the Blaze or Melta trait, and tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl08_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The selected weapon automatically passes all Ammo checks it is required to make.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl09_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl09_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Let It Burn!</h4>
+<p id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl09_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card to interrupt an enemy fighter's activation when they try to get rid of a Blaze marker on themselves.</p>
+<p id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl09_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The enemy fighter's attempts to get rid of the Blaze marker fail and their activation ends immediately. </p>
+
+</div>
+            
+                <div id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl10_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl10_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Redemption</h4>
+<p id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl10_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your gang's fighters fails to inflict any wounds in close combat.</p>
+<p id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl10_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">You may reroll all of the fighter's close combat hits that failed to wound.</p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl11_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl11_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Righteous Day</h4>
+<p id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl11_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the beginning of the Action phase of any round.</p>
+<p id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl11_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Your gang takes priority. All of your gang's fighters that are Active and Readied Group Activate together, 
+    and each fighter in the group must declare a Charge when activated.</p>
+</div>
+            
+                <div id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl12_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl12_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Ultra-Enflamed</h4>
+<p id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl12_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the beginning of a round.</p>
+<p id="ctl00_Content_Cawdor_rptTacticsCardControls_ctl12_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the duration of the round, all of your gang's fighters on the battlefield gain the Berserker skill.</p>
+
+</div>
+            
+            
+    </div>
+</div>
+
+        <H3 id="Delaque" class="top-line-dotted break-before">Delaque</H3><div id="ctl00_Content_Delaque_dTacticsCardRepeater" class="table">
+    <div id="ctl00_Content_Delaque_dTacticsCardRepeaterBox">
+        
+            
+                <div id="ctl00_Content_Delaque_rptTacticsCardControls_ctl01_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Delaque_rptTacticsCardControls_ctl01_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Deadly Backstabber</h4>
+<p id="ctl00_Content_Delaque_rptTacticsCardControls_ctl01_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when you activate one of your gang's fighters. Tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_Delaque_rptTacticsCardControls_ctl01_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the remainder of the battle whenever the Backstab trait is successfully applied to an enemy fighter by one of this fighter's attacks, the Deadly trait is also applied.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Delaque_rptTacticsCardControls_ctl02_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Delaque_rptTacticsCardControls_ctl02_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Fade Away</h4>
+<p id="ctl00_Content_Delaque_rptTacticsCardControls_ctl02_ctl00_TacticsCardLineItem_pCondition" class="content">During the Battle Sequence you may interrupt any action or resolution to play this card.</p>
+<p id="ctl00_Content_Delaque_rptTacticsCardControls_ctl02_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">You immediately remove all of your gang's remaining fighters from the battlefield. Seriously Injured fighters removed from the battlefield in this way do not suffer Injury rolls but do go into Recovery and must miss the gang's next battle. Your gang is considered to have Bottled Out for purposes of Post-Battle Sequence resolutions. </p>
+
+</div>
+            
+                <div id="ctl00_Content_Delaque_rptTacticsCardControls_ctl03_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Delaque_rptTacticsCardControls_ctl03_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Garrote</h4>
+<p id="ctl00_Content_Delaque_rptTacticsCardControls_ctl03_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your gang's Hidden fighters succesfully Charges an enemy Sentry.</p>
+<p id="ctl00_Content_Delaque_rptTacticsCardControls_ctl03_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Roll D6+1; if the result is higher than the enemy Sentry's current Toughness the Sentry is taken Out of Action immediately. If this happens outside the vision arcs of all other enemy fighters, no check is made to see if other enemy fighters detect your gang's Hidden fighter. If the enemy Sentry is not taken Out of Action, close combat is resolved per normal rules.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Delaque_rptTacticsCardControls_ctl04_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Delaque_rptTacticsCardControls_ctl04_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Good Optics</h4>
+<p id="ctl00_Content_Delaque_rptTacticsCardControls_ctl04_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when you activate one of your gang's fighters. Tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_Delaque_rptTacticsCardControls_ctl04_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter gains a free Photogoggles wargear item for the remainder of the battle. If this fighter survives the battle and is not Captured, you may add this item to your gang's Stash after the battle.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Delaque_rptTacticsCardControls_ctl05_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Delaque_rptTacticsCardControls_ctl05_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Healthy Paranoia</h4>
+<p id="ctl00_Content_Delaque_rptTacticsCardControls_ctl05_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card on a fighter when they are set up on the battlefield. Tuck this card under that fighter's card.</p>
+<p id="ctl00_Content_Delaque_rptTacticsCardControls_ctl05_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the remainder of the battle if a Hidden enemy fighter moves within 12'' and line of sight of this fighter that enemy fighter's action ends immediately, this fighter stops being a Sentry (if relevant), gets a Ready marker if they do not already have one, and this fighter may activate immediately.</p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Delaque_rptTacticsCardControls_ctl06_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Delaque_rptTacticsCardControls_ctl06_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Poof!</h4>
+<p id="ctl00_Content_Delaque_rptTacticsCardControls_ctl06_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card instead of activating a fighter.</p>
+<p id="ctl00_Content_Delaque_rptTacticsCardControls_ctl06_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Any or all of your gang's Active or Pinned fighters that have a Smoke Bomb Grenade may drop one at their own feet now; 
+    the Grenades used in this way do not scatter, and Ammo checks made for the Grenades are automatically passed.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Delaque_rptTacticsCardControls_ctl07_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Delaque_rptTacticsCardControls_ctl07_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Stealthy Swiftness</h4>
+<p id="ctl00_Content_Delaque_rptTacticsCardControls_ctl07_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the beginning of any round.</p>
+<p id="ctl00_Content_Delaque_rptTacticsCardControls_ctl07_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the remainder of the battle each time you activate one of your gang's fighters, if they are currently Hidden they gain +2 Movement for the duration of their current activation (even if they stop being Hidden during the course of that activation).</p>
+
+</div>
+            
+                <div id="ctl00_Content_Delaque_rptTacticsCardControls_ctl08_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Delaque_rptTacticsCardControls_ctl08_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Ultra-Treachery</h4>
+<p id="ctl00_Content_Delaque_rptTacticsCardControls_ctl08_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the beginning of a round.</p>
+<p id="ctl00_Content_Delaque_rptTacticsCardControls_ctl08_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the duration of the round, all of your gang's fighters on the battlefield gain the Backstab skill.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Delaque_rptTacticsCardControls_ctl09_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Delaque_rptTacticsCardControls_ctl09_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Underhive Smog</h4>
+<p id="ctl00_Content_Delaque_rptTacticsCardControls_ctl09_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the start of any End phase.</p>
+<p id="ctl00_Content_Delaque_rptTacticsCardControls_ctl09_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Your gang's smoke clouds do not dissipate in the current End phase.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Delaque_rptTacticsCardControls_ctl10_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Delaque_rptTacticsCardControls_ctl10_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Valuable Secrets ( &Psi;  )</h4>
+<p id="ctl00_Content_Delaque_rptTacticsCardControls_ctl10_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the end of the Deployment step of the Pre-Battle Sequence after all fighters have been set up on the battlefield (including Infiltrating fighters).</p>
+<p id="ctl00_Content_Delaque_rptTacticsCardControls_ctl10_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Set up a terminal on the battlefield within 6'' of the center of the battlefield. Any of your gang's fighters who makes a successful Access Terminal action on the terminal downloads data that can be sold for 3D3 x 10 credits in the Receive Rewards step of the Post-Battle Sequence.</p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Delaque_rptTacticsCardControls_ctl11_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Delaque_rptTacticsCardControls_ctl11_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Venomous Intent</h4>
+<p id="ctl00_Content_Delaque_rptTacticsCardControls_ctl11_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when you activate one of your gang's fighters. Tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_Delaque_rptTacticsCardControls_ctl11_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Select a weapon profile of a bladed weapon (any kind of Sword, Dagger, Knife, etc) on the fighter's card that has the Melee trait; add the Toxin and Virulent traits to that weapon profile for the remainder of the battle.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Delaque_rptTacticsCardControls_ctl12_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Delaque_rptTacticsCardControls_ctl12_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Wishen</h4>
+<p id="ctl00_Content_Delaque_rptTacticsCardControls_ctl12_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when you activate one of your gang's fighters. Tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_Delaque_rptTacticsCardControls_ctl12_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter gains a free Smoke Bomb Grenade item for the remainder of the battle. If this fighter survives the battle and is not Captured, you may add this item to your gang's Stash after the battle.</p>
+
+</div>
+            
+            
+    </div>
+</div>
+
+        <H3 id="Escher" class="top-line-dotted break-before">Escher</H3><div id="ctl00_Content_Escher_dTacticsCardRepeater" class="table">
+    <div id="ctl00_Content_Escher_dTacticsCardRepeaterBox">
+        
+            
+                <div id="ctl00_Content_Escher_rptTacticsCardControls_ctl01_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Escher_rptTacticsCardControls_ctl01_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">A New Strain</h4>
+<p id="ctl00_Content_Escher_rptTacticsCardControls_ctl01_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your gang's fighters has made an attack with a weapon that has the Gas trait.</p>
+<p id="ctl00_Content_Escher_rptTacticsCardControls_ctl01_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Each time you roll to determine if a fighter hit by this attack is affected by the Gas trait, you may roll an extra dice and discard one of the dice before determining the result.</p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Escher_rptTacticsCardControls_ctl02_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Escher_rptTacticsCardControls_ctl02_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Counter-Charger</h4>
+<p id="ctl00_Content_Escher_rptTacticsCardControls_ctl02_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card to interrupt an enemy fighter's action when that fighter Engages one of your gang's fighters.</p>
+<p id="ctl00_Content_Escher_rptTacticsCardControls_ctl02_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Pick one of your gang's Active and Readied fighters; that fighter gains the Counter-Charge skill for the remainder of this battle. They may use the skill immediately.</p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Escher_rptTacticsCardControls_ctl03_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Escher_rptTacticsCardControls_ctl03_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Gas Trap</h4>
+<p id="ctl00_Content_Escher_rptTacticsCardControls_ctl03_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when you set up one of your gang's fighters onto the battlefield. Tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_Escher_rptTacticsCardControls_ctl03_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter is equipped with a Gas Trap; see the gear list for details. </p>
+</div>
+            
+                <div id="ctl00_Content_Escher_rptTacticsCardControls_ctl04_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Escher_rptTacticsCardControls_ctl04_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Not So Easy Is It?</h4>
+<p id="ctl00_Content_Escher_rptTacticsCardControls_ctl04_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card immediately after an enemy gang fails a Bottle test, targeting that gang.</p>
+<p id="ctl00_Content_Escher_rptTacticsCardControls_ctl04_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The fighters of the targeted enemy gang must each make a Cool check now with a -1 modifier; fighters who fail their check flee the battlefield. 
+    This is in addition to the normal check made at the start of the next Action phase.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Escher_rptTacticsCardControls_ctl05_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Escher_rptTacticsCardControls_ctl05_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Put Them Down!</h4>
+<p id="ctl00_Content_Escher_rptTacticsCardControls_ctl05_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this at the end of any Action phase.</p>
+<p id="ctl00_Content_Escher_rptTacticsCardControls_ctl05_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Each of this gang's Active fighters may make a free Coup d' Grace action against a Seriously Injured enemy fighter within 3'' of themselves, if any.  </p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Escher_rptTacticsCardControls_ctl06_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Escher_rptTacticsCardControls_ctl06_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Scrag</h4>
+<p id="ctl00_Content_Escher_rptTacticsCardControls_ctl06_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your gang's fighters would inflict a Flesh Wound on an enemy fighter in close combat.</p>
+<p id="ctl00_Content_Escher_rptTacticsCardControls_ctl06_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter instead inflicts D3+1 Flesh Wounds on the enemy fighter.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Escher_rptTacticsCardControls_ctl07_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Escher_rptTacticsCardControls_ctl07_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Side by Side</h4>
+<p id="ctl00_Content_Escher_rptTacticsCardControls_ctl07_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card to interrupt an enemy fighter's action when that enemy fighter moves into base contact with one of your gang's fighters.</p>
+<p id="ctl00_Content_Escher_rptTacticsCardControls_ctl07_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Any of your gang's Active fighters who are within 6'' of the enemy fighter may be moved so that they are in base contact with that enemy fighter if it is possible for them to do so. The enemy fighter's action then resumes.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Escher_rptTacticsCardControls_ctl08_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Escher_rptTacticsCardControls_ctl08_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Siren Howls</h4>
+<p id="ctl00_Content_Escher_rptTacticsCardControls_ctl08_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the beginning of any round, before rolling for Priority.</p>
+<p id="ctl00_Content_Escher_rptTacticsCardControls_ctl08_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the remainder of this round, Escher Leader, Champion, Juve, and Ganger fighters, and any Hired Guns represented by an Escher model, gain +1 on all Cool checks (including Nerve tests). All other fighters take a -1 penalty on all Cool checks (including Nerve tests). </p>
+
+</div>
+            
+                <div id="ctl00_Content_Escher_rptTacticsCardControls_ctl09_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Escher_rptTacticsCardControls_ctl09_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Stealthy Advance</h4>
+<p id="ctl00_Content_Escher_rptTacticsCardControls_ctl09_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card during the Deployment step of the Pre-Battle Sequence after fighters have been deployed normally, and before Infiltrating fighters have been set up.</p>
+<p id="ctl00_Content_Escher_rptTacticsCardControls_ctl09_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Up to half of the fighters in your gang's crew (rounding up) may make a Standard Move immediately.</p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Escher_rptTacticsCardControls_ctl10_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Escher_rptTacticsCardControls_ctl10_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Three-Point Landing ( &ne;  )</h4>
+<p id="ctl00_Content_Escher_rptTacticsCardControls_ctl10_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your gang's fighters falls.</p>
+<p id="ctl00_Content_Escher_rptTacticsCardControls_ctl10_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The fighter lands safely and does not take a hit. The fighter is not Pinned, and if they have any actions to take they may take them.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Escher_rptTacticsCardControls_ctl11_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Escher_rptTacticsCardControls_ctl11_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Tunnel Runners ( &Omega;  )</h4>
+<p id="ctl00_Content_Escher_rptTacticsCardControls_ctl11_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the start of any round.</p>
+<p id="ctl00_Content_Escher_rptTacticsCardControls_ctl11_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the duration of this round all of your gang's fighters may move through pitfalls and ductways as though they were clear terrain. They cannot end their turn on them.</p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Escher_rptTacticsCardControls_ctl12_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Escher_rptTacticsCardControls_ctl12_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Ultra-Violence</h4>
+<p id="ctl00_Content_Escher_rptTacticsCardControls_ctl12_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the beginning of a round.</p>
+<p id="ctl00_Content_Escher_rptTacticsCardControls_ctl12_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the duration of the round, all of your gang's fighters on the battlefield gain the Rain of Blows skill.</p>
+
+</div>
+            
+            
+    </div>
+</div>
+
+        <H3 id="Goliath" class="top-line-dotted break-before">Goliath</H3><div id="ctl00_Content_Goliath_dTacticsCardRepeater" class="table">
+    <div id="ctl00_Content_Goliath_dTacticsCardRepeaterBox">
+        
+            
+                <div id="ctl00_Content_Goliath_rptTacticsCardControls_ctl01_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Goliath_rptTacticsCardControls_ctl01_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Anything's A Weapon</h4>
+<p id="ctl00_Content_Goliath_rptTacticsCardControls_ctl01_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when you activate one of your gang's fighters. Tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_Goliath_rptTacticsCardControls_ctl01_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter's unarmed attacks have the Melee trait, and have a weapon profile of S+1, - AP, and 2 Damage. </p>
+
+</div>
+            
+                <div id="ctl00_Content_Goliath_rptTacticsCardControls_ctl02_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Goliath_rptTacticsCardControls_ctl02_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Brutal Charge</h4>
+<p id="ctl00_Content_Goliath_rptTacticsCardControls_ctl02_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card on one of your gang's fighters when that fighter declares a Charge.</p>
+<p id="ctl00_Content_Goliath_rptTacticsCardControls_ctl02_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the remainder of the round this fighter's Move is increased by 2'',  
+    and any close combat attacks they make that have the Melee trait gain the Pulverize trait if they do not already have it.</p>
+
+
+</div>
+            
+                <div id="ctl00_Content_Goliath_rptTacticsCardControls_ctl03_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Goliath_rptTacticsCardControls_ctl03_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Ceramite Skin</h4>
+<p id="ctl00_Content_Goliath_rptTacticsCardControls_ctl03_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when you set up one of your gang's fighters onto the battlefield. Tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_Goliath_rptTacticsCardControls_ctl03_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter cannot be affected by weapons with the Blaze or Radiation traits. Additionally, this fighter's Toughness is increased by 2 against Frag Grenades, Plasma weapons, and weapons with the Melta trait.</p>
+</div>
+            
+                <div id="ctl00_Content_Goliath_rptTacticsCardControls_ctl04_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Goliath_rptTacticsCardControls_ctl04_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Inhuman Resilience</h4>
+<p id="ctl00_Content_Goliath_rptTacticsCardControls_ctl04_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card instead of activating a fighter.</p>
+<p id="ctl00_Content_Goliath_rptTacticsCardControls_ctl04_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Any of your gang's fighters who are Seriously Injured may make a Recovery roll now, treating Out of Action results as Seriously Injured. 
+    Next, any of your gang's fighters who are Pinned may immediately stand up.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Goliath_rptTacticsCardControls_ctl05_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Goliath_rptTacticsCardControls_ctl05_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Ironhide</h4>
+<p id="ctl00_Content_Goliath_rptTacticsCardControls_ctl05_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when you set up one of your gang's fighters onto the battlefield. Tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_Goliath_rptTacticsCardControls_ctl05_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter's save roll is improved by 2. If the fighter does not already have a save Ironhide grants a save of 5+. This cannot be combined with other similar effects such as Armored Undersuit.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Goliath_rptTacticsCardControls_ctl06_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Goliath_rptTacticsCardControls_ctl06_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Knockout Blow</h4>
+<p id="ctl00_Content_Goliath_rptTacticsCardControls_ctl06_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your gang's fighters inflicts at least one wound on an enemy fighter who has no Wounds remaining, before Injury dice are rolled.</p>
+<p id="ctl00_Content_Goliath_rptTacticsCardControls_ctl06_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The enemy fighter is taken Out of Action immediately. In campaign mode, do not make a Lasting Injury roll; the enemy fighter is Out Cold.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Goliath_rptTacticsCardControls_ctl07_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Goliath_rptTacticsCardControls_ctl07_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Not Done Yet</h4>
+<p id="ctl00_Content_Goliath_rptTacticsCardControls_ctl07_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your gang's fighters would be taken Out of Action. Tuck this card under that fighter's card.</p>
+<p id="ctl00_Content_Goliath_rptTacticsCardControls_ctl07_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter is not removed from play...yet. Additionally, if they were prone the fighter immediately stands up. 
+	Until their next activation the fighter cannot be Pinned or Seriously Inured, and cancels any Flesh Wounds inflicted on them.
+	If they are still on the battlefield, the fighter is immediately taken Out of Action at the end of their next activation.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Goliath_rptTacticsCardControls_ctl08_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Goliath_rptTacticsCardControls_ctl08_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Roid Rage</h4>
+<p id="ctl00_Content_Goliath_rptTacticsCardControls_ctl08_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card on one of your gang's fighters when you activate them.</p>
+<p id="ctl00_Content_Goliath_rptTacticsCardControls_ctl08_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the remainder of the round this fighter's Strength and Attacks are increased by 1 and 
+    fighters who are Knocked back by their close combat attacks are moved 2'' away instead of 1''.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Goliath_rptTacticsCardControls_ctl09_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Goliath_rptTacticsCardControls_ctl09_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Second Wind</h4>
+<p id="ctl00_Content_Goliath_rptTacticsCardControls_ctl09_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card instead of activating a fighter.</p>
+<p id="ctl00_Content_Goliath_rptTacticsCardControls_ctl09_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">You may remove a Flesh Wound from one of your gang's fighters, and if they are Pinned they may immediately stand up.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Goliath_rptTacticsCardControls_ctl10_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Goliath_rptTacticsCardControls_ctl10_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Steel Constitution</h4>
+<p id="ctl00_Content_Goliath_rptTacticsCardControls_ctl10_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when you set up one of your gang's fighters onto the battlefield. Tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_Goliath_rptTacticsCardControls_ctl10_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter is unaffected by the Gas, Toxin, and Radiation traits. When this fighter makes a recovery test, they are considered to be assisted even when they are alone.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Goliath_rptTacticsCardControls_ctl11_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Goliath_rptTacticsCardControls_ctl11_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Ultra-Brawl</h4>
+<p id="ctl00_Content_Goliath_rptTacticsCardControls_ctl11_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the beginning of a round.</p>
+<p id="ctl00_Content_Goliath_rptTacticsCardControls_ctl11_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the duration of the round, all of your gang's fighters on the battlefield gain the Burly skill.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Goliath_rptTacticsCardControls_ctl12_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Goliath_rptTacticsCardControls_ctl12_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Unstoppable Behemoth</h4>
+<p id="ctl00_Content_Goliath_rptTacticsCardControls_ctl12_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card after an attack has been made against one of your gang's fighters before any Injury rolls are made (if any).</p>
+<p id="ctl00_Content_Goliath_rptTacticsCardControls_ctl12_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The attack against this fighter has no further effect; no Injury roll(s) are made. Additionally, if this fighter is Pinned, they may immediately stand up.</p>
+
+
+</div>
+            
+            
+    </div>
+</div>
+</gangs>
+
+        <H3 id="Orlock" class="top-line-dotted break-before">Orlock</H3><div id="ctl00_Content_Orlock_dTacticsCardRepeater" class="table">
+    <div id="ctl00_Content_Orlock_dTacticsCardRepeaterBox">
+        
+            
+                <div id="ctl00_Content_Orlock_rptTacticsCardControls_ctl01_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Orlock_rptTacticsCardControls_ctl01_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Ambition</h4>
+<p id="ctl00_Content_Orlock_rptTacticsCardControls_ctl01_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when you set up a Juve or Specialist onto the battlefield. Tuck this card under that fighter's card.</p>
+<p id="ctl00_Content_Orlock_rptTacticsCardControls_ctl01_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter is treated as a Leader for the purposes of activating groups.</p>
+</div>
+            
+                <div id="ctl00_Content_Orlock_rptTacticsCardControls_ctl02_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Orlock_rptTacticsCardControls_ctl02_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Ammo Boxes</h4>
+<p id="ctl00_Content_Orlock_rptTacticsCardControls_ctl02_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card instead of activating a fighter.</p>
+<p id="ctl00_Content_Orlock_rptTacticsCardControls_ctl02_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">You may set up D3+1 ammo caches anywhere on the battlefield.</p>
+</div>
+            
+                <div id="ctl00_Content_Orlock_rptTacticsCardControls_ctl03_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Orlock_rptTacticsCardControls_ctl03_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Beat Down</h4>
+<p id="ctl00_Content_Orlock_rptTacticsCardControls_ctl03_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the beginning of a round.</p>
+<p id="ctl00_Content_Orlock_rptTacticsCardControls_ctl03_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the duration of the round, all <b>unarmed</b> close combat attacks made by fighters of your gang that hit, automatically inflict a Flesh Wound unless a save roll is made. 
+    No wound roll or injury roll is made.</p>
+</div>
+            
+                <div id="ctl00_Content_Orlock_rptTacticsCardControls_ctl04_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Orlock_rptTacticsCardControls_ctl04_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Bond of Brotherhood</h4>
+<p id="ctl00_Content_Orlock_rptTacticsCardControls_ctl04_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when one of your gang's fighters ends their activation within 3'' of another fighter in your gang who is Seriously Injured.</p>
+<p id="ctl00_Content_Orlock_rptTacticsCardControls_ctl04_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The Seriously Injured fighter may immediately make a recovery test, and are considered to be assisted. If the Seriously Injured fighter recovers they may stand up rather than become Pinned.</p>
+</div>
+            
+                <div id="ctl00_Content_Orlock_rptTacticsCardControls_ctl05_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Orlock_rptTacticsCardControls_ctl05_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Chin Music</h4>
+<p id="ctl00_Content_Orlock_rptTacticsCardControls_ctl05_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card to interrupt an enemy fighter's action when that fighter attacks one of your gang's fighters in close combat.</p>
+<p id="ctl00_Content_Orlock_rptTacticsCardControls_ctl05_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Your gang's attacked fighter may make a single <b>unarmed</b> attack against their attacker at +1 Strength and with the Knockback trait. If the attacker is not knocked back, Seriously Injured or taken Out of Action by this attack, their attack then resumes. </p>
+
+</div>
+            
+                <div id="ctl00_Content_Orlock_rptTacticsCardControls_ctl06_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Orlock_rptTacticsCardControls_ctl06_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Die Trying</h4>
+<p id="ctl00_Content_Orlock_rptTacticsCardControls_ctl06_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the start of any round.</p>
+<p id="ctl00_Content_Orlock_rptTacticsCardControls_ctl06_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the remainder of the battle, if any of your fighters are killed (66 on the Lasting Injury table, or similar dead result), 
+    before being removed from the battlefield the dying fighter may first stand up if prone, then make any two actions available to them as if they were Readied, and then be removed from the battlefield.</p>
+</div>
+            
+                <div id="ctl00_Content_Orlock_rptTacticsCardControls_ctl07_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Orlock_rptTacticsCardControls_ctl07_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">For Close Encounters</h4>
+<p id="ctl00_Content_Orlock_rptTacticsCardControls_ctl07_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when you activate one of your gang's fighters. Tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_Orlock_rptTacticsCardControls_ctl07_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter gains a free Shotgun with Scattershot ammunition for the remainder of the battle.  If this fighter survives the battle and is not Captured, you may add this item to your gang's Stash after the battle.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Orlock_rptTacticsCardControls_ctl08_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Orlock_rptTacticsCardControls_ctl08_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Incendiary Rounds</h4>
+<p id="ctl00_Content_Orlock_rptTacticsCardControls_ctl08_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when you set up one of your gang's fighters who has a Autogun, Autopistol, Assault Rifle, or Heavy Stubber onto the battlefield. Tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_Orlock_rptTacticsCardControls_ctl08_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">When this fighter makes an attack with a Autogun, Autopistol, Assault Rifle, or Heavy Stubber, the weapon profile used with that weapon gains the Blaze trait.</p>
+</div>
+            
+                <div id="ctl00_Content_Orlock_rptTacticsCardControls_ctl09_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Orlock_rptTacticsCardControls_ctl09_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Intimidating Appearance</h4>
+<p id="ctl00_Content_Orlock_rptTacticsCardControls_ctl09_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when you set up one of your gang's fighters onto the battlefield. Tuck this card under that fighter's card.</p>
+<p id="ctl00_Content_Orlock_rptTacticsCardControls_ctl09_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the duration of the battle all enemy fighters who can see this fighter suffer a -1 modifier to all Cool checks, Willpower checks, and Nerve tests.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Orlock_rptTacticsCardControls_ctl10_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Orlock_rptTacticsCardControls_ctl10_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Lead by Example</h4>
+<p id="ctl00_Content_Orlock_rptTacticsCardControls_ctl10_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when the Leader of your gang takes an enemy fighter Out of Action.</p>
+<p id="ctl00_Content_Orlock_rptTacticsCardControls_ctl10_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Any of your gang's fighters who are Pinned may stand up for free. Any of your gang's fighters who are Seriously Injured may recover, taking a Flesh Wound and becoming Pinned. Any of your gang's fighters who are Broken immediately Rally. </p>
+
+</div>
+            
+                <div id="ctl00_Content_Orlock_rptTacticsCardControls_ctl11_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Orlock_rptTacticsCardControls_ctl11_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Solidarity</h4>
+<p id="ctl00_Content_Orlock_rptTacticsCardControls_ctl11_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this at the start of any round.</p>
+<p id="ctl00_Content_Orlock_rptTacticsCardControls_ctl11_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the duration of the round, fighters from your gang automatically pass any Cool checks they make as long as they are within 6'' of another fighter from your gang.</p>
+
+</div>
+            
+                <div id="ctl00_Content_Orlock_rptTacticsCardControls_ctl12_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_Orlock_rptTacticsCardControls_ctl12_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Ultra-Shooty</h4>
+<p id="ctl00_Content_Orlock_rptTacticsCardControls_ctl12_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the beginning of a round.</p>
+<p id="ctl00_Content_Orlock_rptTacticsCardControls_ctl12_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the duration of the round, all of your gang's fighters on the battlefield gain the Fast Shot skill.</p>
+
+</div>
+            
+            
+    </div>
+</div>
+
+        <H3 id="VanSaar" class="top-line-dotted break-before">VanSaar</H3><div id="ctl00_Content_VanSaar_dTacticsCardRepeater" class="table">
+    <div id="ctl00_Content_VanSaar_dTacticsCardRepeaterBox">
+        
+            
+                <div id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl01_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl01_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Blood Cleansers</h4>
+<p id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl01_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when you set up one of your gang's fighters onto the battlefield. Tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl01_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter is unaffected by the Toxin, Gas, and Enervating traits. When this fighter makes a recovery test, they are considered to be assisted even when they are alone.</p>
+
+</div>
+            
+                <div id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl02_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl02_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Comm Burst</h4>
+<p id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl02_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this at the start of any round.</p>
+<p id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl02_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the duration of this round, Group Activation and Leading by Example have unlimited range for your gang's fighters, and any
+    of your gang's Broken fighters attempting to Rally add 1 for each Active fighter from your gang remaining on the battlefield instead of the usual 3'' distance.</p>
+</div>
+            
+                <div id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl03_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl03_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Cortical Stimulants</h4>
+<p id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl03_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when you set up one of your gang's fighters onto the battlefield. Tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl03_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter passes any Intelligence check they are required to make, and adds +1 to detect hidden enemy fighters.</p>
+</div>
+            
+                <div id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl04_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl04_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Enhanced Auspexes</h4>
+<p id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl04_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the start of any round.</p>
+<p id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl04_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Until the end of this round your gang's fighters have a 360° vision arc, gain a +1 bonus to detect hidden enemy fighters, and gain +1 to hit with all attacks.</p>
+
+</div>
+            
+                <div id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl05_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl05_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Experimental Powercell</h4>
+<p id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl05_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when you set up one of your gang's fighters onto the battlefield. Tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl05_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Select one of the fighter's weapons that has the Melee trait. That weapon gains the Power, Shock, and Pulverize traits if it does not already have them.</p>
+
+</div>
+            
+                <div id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl06_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl06_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Experimental Rig</h4>
+<p id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl06_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when you set up one of your gang's fighters onto the battlefield. Select one of the fighter's ranged weapons, and tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl06_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">The selected weapon's long range is increased by 6'', and its Strength is increased by 1. If the weapon has the Plentiful trait it loses it; if the weapon does not have the Plentiful trait it gains the Scarce trait.</p>
+
+</div>
+            
+                <div id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl07_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl07_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Hyper Auto-Loader</h4>
+<p id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl07_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when activating one of your gang's Active fighters who has a Rapid Fire weapon that is not Out of Ammo.</p>
+<p id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl07_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Select one of the fighter's weapons with the Rapid Fire trait and make a ranged attack with it; you may roll up to two extra Firepower dice.
+    Ignore any Ammo symbols rolled. After the attack is resolved the weapon is Out of Ammo and the fighter's activation ends.</p>
+</div>
+            
+                <div id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl08_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl08_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-gamma">Medical Protocols</h4>
+<p id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl08_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the start of any End phase.</p>
+<p id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl08_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the duration of this End phase when any of your gang's fighters assists a friendly fighter's Recovery test you may 
+        roll an extra Injury dice and discard one before deciding which to keep.</p>
+
+</div>
+            
+                <div id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl09_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl09_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Mesh Underlay</h4>
+<p id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl09_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when you set up one of your gang's fighters onto the battlefield. Tuck this card under that fighter's card. </p>
+<p id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl09_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">This fighter's armor save is never worse than a 5+ regardless of modifiers such as AP.</p>
+</div>
+            
+                <div id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl10_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl10_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-beta">Overcharger</h4>
+<p id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl10_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card when activating one of your gang's Active fighters who has a Plasma weapon that is not Out of Ammo.</p>
+<p id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl10_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">Select one of the fighter's Plasma weapons that is not Out of Ammo. Until the end of the round that weapon loses the Scarce and Unstable traits.</p>
+
+</div>
+            
+                <div id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl11_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl11_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Ultra-Accuracy</h4>
+<p id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl11_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the beginning of a round.</p>
+<p id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl11_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the duration of the round, all of your gang's fighters on the battlefield gain the Ballistics Expert skill.</p>
+
+</div>
+            
+                <div id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl12_dTacticsCardBox" class="boxed-card float-left"><h4 id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl12_ctl00_TacticsCardLineItem_hCardName" class="bottom-line tactics-card-alpha">Warforge</h4>
+<p id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl12_ctl00_TacticsCardLineItem_pCondition" class="content">You may play this card at the start of the battle after setting up your gang.</p>
+<p id="ctl00_Content_VanSaar_rptTacticsCardControls_ctl12_ctl00_TacticsCardLineItem_pDescription" class="top-line-dotted content">For the duration of the battle your gang's fighters add a +1 modifier to any Ammo checks they are required to take.</p>
+
+</div>
+            
+            
+    </div>
+</div>
