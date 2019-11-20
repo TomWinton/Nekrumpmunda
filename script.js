@@ -14,7 +14,7 @@ $(document).ready(function()
 		var gang = $(this).find('cardGang').text();
 		var condition = $(this).find('cardCondition').text();
 		var description = $(this).find('cardDescription').text();
-		var card ="<div class='cardbox optionsCard randomAvailable "+gang+"'><div class='cardTitleContainer "+gang+"'><div class='cardTitle'>"+name+" <br/> "+gang+"</div><div class='cardSelect'>Add</div></div><div class='cardDetails'>"+condition+"</div><div class='cardDetails'>"+description+"</div></div></div>" 
+		var card ="<div class='cardbox optionsCard randomAvailable "+gang+"'><div class='cardTitleContainer "+gang+"'><div class='cardTitle'>"+name+" <br/> "+gang+"</div><div class='cardSelect'>Add</div></div><div class='cardCondition'>"+condition+"</div><div class='cardDetails'>"+description+"</div></div></div>" 
 		$( "#cardOptionsContainer" ).append( card );
 		});
 		$(".cardSelect").click(function(){
@@ -63,6 +63,14 @@ $(document).ready(function()
 		}
 		else
 		{
+					$( ".optionsCard" ).each(function() 
+			{
+				if (!$( this ).is(":visible"))
+				{
+				($(this).show());
+				$( $(this).addClass( "randomAvailable" ))
+				}
+			});
 			$( ".optionsCard" ).each(function( ) {
 				if (!$( this ).hasClass( selectedGang ))
 				{	
