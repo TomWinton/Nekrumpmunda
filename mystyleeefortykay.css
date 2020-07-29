@@ -1,11 +1,11 @@
 #selectedCards, #cardSelectionOptions, #cardOptions
 {
-	
+
 	margin:5px;
 	padding:5px;
 	border: 4px dashed #008F11;
 	text-align:center;
-	
+
 font-family: 'Alata', sans-serif;
 }
 #footer
@@ -14,11 +14,15 @@ font-family: 'Alata', sans-serif;
 	font-family: 'Orbitron', sans-serif;
 color:#FD5F00;
 }
-h2
+
+#subfactionwrapper
+{
+	display:none;
+}
+h3
 {
 font-family: 'Orbitron', sans-serif;
 color:#FD5F00;
- font-size: 60px;
 
 }
 body
@@ -26,7 +30,7 @@ body
 	background-color:#0D0208;
 }
 
-#selectRandom
+#filter
 {
 	width:95%;
 	background-color:#784668;
@@ -38,7 +42,7 @@ body
 	color:white;
 	cursor:pointer;
 	font-family: 'Orbitron', sans-serif;
-	
+
 }
 .subtitle
 {
@@ -57,7 +61,7 @@ body
 	margin:auto;
 	margin-top:15px;
 	background-color:#F5F5F5;
-		
+
 }
 .cardTitleContainer
 {
@@ -68,7 +72,7 @@ body
 }
 .cardTitle
 {
-	
+
 	width:60%;
 	font-size:50px;
 	font-weight:bold;
@@ -79,9 +83,9 @@ body
 	text-decoration-color: #FD5F00;
 	float:left;
 }
-.cardSelect 
+.cardSelect
 {
-		cursor:pointer;
+
 		background-color:#008F11;
 		color:white;
 		float:right;
@@ -94,7 +98,8 @@ body
 		vertical-align: text-bottom;
 		font-weight:bold;
 		font-family: 'Orbitron', sans-serif;
-		
+		display:none;
+
 }
 .cardDeselect
 {
@@ -110,7 +115,7 @@ body
 		vertical-align: text-bottom;
 		font-weight:bold;
 		font-family: 'Orbitron', sans-serif;
-	
+
 }
 .cardCondition
 {
@@ -133,6 +138,14 @@ body
 		background-color:#EDEDED;
 }
 select
+{
+	width:95%;
+	height:60px;
+	font-size:35px;
+	font-family: 'Orbitron', sans-serif;
+	font-weight:bold;
+}
+input
 {
 	width:95%;
 	height:60px;

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gangs>
+  <gang title='Adeptus Astartes' name='Any'></gang>
+  <gang title='Chaos Space Marines' name='Iron Warriors'></gang>
+  <gang title='Chaos Space Marines' name='Any'></gang>
+  <gang title='Thousand Sons' name='Any'></gang>
+  <gang title='Chaos Space Marines' name='World Eaters'></gang>
+  <gang title='Chaos Space Marines' name='Emperors Children'></gang>
+  <gang title='Tyranids' name='Any'></gang>
+  <gang title='Chaos Space Marines' name='Night Lords'></gang>
+  <gang title='Chaos Space Marines' name='Alpha Legion'></gang>
+  <gang title='Tyranids' name='Behemoth'></gang>
+  <gang title='Tyranids' name='Jormungandr'></gang>
+  <gang title='Tyranids' name='Leviathan'></gang>
+  <gang title='Chaos Space Marines' name='Word Bearers'></gang>
+  <gang title='Chaos Space Marines' name='Black Legion'></gang>
+  <gang title='Tyranids' name='Kraken'></gang>
+  <gang title='Tyranids' name='Kronos'></gang>
+  <gang title='Tyranids' name='Gorgon'></gang>
+  <gang title='Necrons' name='Any'></gang>
+  <gang title='Adeptus Custodes' name='Any'></gang>
+  <gang title='Drukhari' name='Any'></gang>
+  <gang title='Adeptus Mechanicus' name='Any'></gang>
+  <gang title='Drukhari' name='Haemonculus Coven'></gang>
+  <gang title='Adeptus Mechanicus' name='Skitarii'></gang>
+  <gang title='Adeptus Mechanicus' name='Lucius'></gang>
+  <gang title='Adeptus Mechanicus' name='Ryza'></gang>
+  <gang title='Adeptus Mechanicus' name='Graia'></gang>
+  <gang title='Adeptus Mechanicus' name='Mars'></gang>
+  <gang title='Adeptus Mechanicus' name='Stygies VIII'></gang>
+  <gang title='Adeptus Mechanicus' name='Metalica'></gang>
+  <gang title='Imperial Knights' name='Questor Mechanicus'></gang>
+  <gang title='Drukhari' name='Kabal of the Poisoned Tongue'></gang>
+  <gang title='Drukhari' name='Kabal of the Flayed Skull'></gang>
+  <gang title='Chaos Space Marines' name='Cult of Strife'></gang>
+  <gang title='Drukhari' name='Cult of the Cursed Blade'></gang>
+  <gang title='Drukhari' name='Cult of the Red Grief'></gang>
+  <gang title='Drukhari' name='Prophets of Flesh'></gang>
+  <gang title='Drukhari' name='Kabal of the Obsidian Rose'></gang>
+  <gang title='Drukhari' name='The Dark Creed'></gang>
+  <gang title='Drukhari' name='Coven of Twelve'></gang>
+  <gang title='Adeptus Astartes' name='White Scars'></gang>
+  <gang title='Adeptus Astartes' name='Salamanders'></gang>
+  <gang title='Adeptus Astartes' name='Imperial Fists'></gang>
+  <gang title='Adeptus Astartes' name='Space Wolves '></gang>
+  <gang title='Adeptus Astartes' name='Crimson Fists'></gang>
+  <gang title='Astra Militarum' name='Any'></gang>
+  <gang title='Adeptus Astartes' name='Iron Hands'></gang>
+  <gang title='Astra Militarum' name='Tallarn'></gang>
+  <gang title='Astra Militarum' name='Valhallan'></gang>
+  <gang title='Adeptus Astartes' name='Deathwatch'></gang>
+  <gang title='Astra Militarum' name='Armageddon Steel Legion'></gang>
+  <gang title='Astra Militarum' name='Catachan'></gang>
+  <gang title='Adeptus Astartes' name='Ultramarines'></gang>
+  <gang title='TauEmpire' name='Any'></gang>
+  <gang title='Genestealer Cults' name='Any'></gang>
+  <gang title='Adeptus Astartes' name='Grey Knights'></gang>
+  <gang title='Ork' name='Any'></gang>
+  <gang title='Adeptus Astartes' name='Dark Angels'></gang>
+  <gang title='Ork' name='Snakebite '></gang>
+  <gang title='Ork' name='Deathskulls '></gang>
+  <gang title='Ork' name='Bad Moons '></gang>
+  <gang title='Ork' name='Blood Axe '></gang>
+  <gang title='Ork' name='Freebooterz '></gang>
+  <gang title='Ork' name='Goff '></gang>
+  <gang title='Imperial Knights' name='Any'></gang>
+  <gang title='Chaos Space Marines' name='Death Guard'></gang>
+  <gang title='Asuryani' name='Any'></gang>
+  <gang title='Imperial Knights' name='House Krast'></gang>
+  <gang title='Adepta Sororitas' name='Any'></gang>
+  <gang title='Chaos Knights' name='Any'></gang>
+  <gang title='Officio Assassinorum' name='Any'></gang>
+  <gang title='Daemon' name='Any'></gang>
+  <gang title='Chaos Space Marines' name='Creations of Bile '></gang>
+  <gang title='Aeldari' name='UlthwÃ©'></gang>
+  <gang title='Aeldari' name='Saim-Hann'></gang>
+  <gang title='Aeldari' name='Biel-Tan'></gang>
+  <gang title='Harlequins' name='Any'></gang>
+  <gang title='Drukhari' name='Soaring Spite'></gang>
+  <gang title='Chaos Knights' name='House Herpetrax'></gang>
+  <gang title='Adeptus Astartes' name='Blood Angels'></gang>
+  <gang title='Drukhari' name='Dreaming Shadow'></gang>
+  <gang title='Drukhari' name='Veiled Path'></gang>
+  <gang title='Drukhari' name='Frozen Stars'></gang>
+  <gang title='Drukhari' name='Silent Shroud'></gang>
+  <gang title='Chaos Knights' name='House Lucaris'></gang>
+  <gang title='Chaos Knights' name='House Khymere'></gang>
+  <gang title='Chaos Knights' name='House Vextrix '></gang>
+  <gang title='Daemon' name='Slaanesh'></gang>
+  <gang title='Daemon' name='Nurgle'></gang>
+  <gang title='Drukhari' name='Kabal of the Black Heart'></gang>
+  <gang title='Daemon' name='Khorne'></gang>
+  <gang title='Daemon' name='Tzeentch'></gang>
+  <gang title='Genestealer Cults' name='The Twisted Helix'></gang>
+  <gang title='Genestealer Cults' name='The Bladed Cog'></gang>
+  <gang title='Genestealer Cults' name='The Pauper Princes'></gang>
+  <gang title='Inquisition' name='Any'></gang>
+  <gang title='Ynnari' name='Any'></gang>
+  <gang title='Adeptus Astartes' name='Black Templars'></gang>
+  <gang title='Death Guard' name='Gellerpox Infected'></gang>
+  <gang title='Adepta Sororitas' name='Order of the Bloody Rose '></gang>
+  <gang title='Adepta Sororitas' name='Order of Our Martyred Lady '></gang>
+  <gang title='Adepta Sororitas' name='Order of the Ebon Chalice '></gang>
+  <gang title='Elucidian Starstriders' name='Any'></gang>
+  <gang title='Adepta Sororitas' name='Order of the Argent Shroud '></gang>
+  <gang title='Adepta Sororitas' name='Order of the Sacred Rose '></gang>
+  <gang title='Chaos Knights' name='House Khomentis '></gang>
+  <gang title='Ork' name='Evil Sunz '></gang>
+  <gang title='Astra Militarum' name='Mordian'></gang>
+  <gang title='Adeptus Astartes' name='Ravenwing'></gang>
+  <gang title='Adeptus Astartes' name='Raven Guard'></gang>
+  <gang title='Aeldari' name='Any'></gang>
+  <gang title='Astra Militarum ' name='Any'></gang>
+  <gang title='Chaos Space Marines ' name='Any'></gang>
+  <gang title='Chaos Space Marines' name='Red Corsairs'></gang>
+  <gang title='Aeldari' name='Iyanden'></gang>
+  <gang title='Genestealer Cults' name='Cult of the Four-armed Emperor'></gang>
+  <gang title='Genestealer Cults' name='The Rusted Claw'></gang>
+  <gang title='Drukhari' name='Midnight Sorrow'></gang>
+  <gang title='Adeptus Mechanicus' name='Agripinaa'></gang>
+</gangs>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<phases>
+<phase title="Before Battle"></phase>
+<phase title="Psychic"></phase>
+<phase title="Shooting"></phase>
+<phase title="Charge"></phase>
+<phase title="Fight"></phase>
+<phase title="Morale"></phase>
+<phase title="Deployment"></phase>
+<phase title="Command"></phase>
+</phases>
