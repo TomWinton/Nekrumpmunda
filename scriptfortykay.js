@@ -109,11 +109,15 @@ $('#phaseFilter').prop('selectedIndex',0);
 
 setTimeout(() => { 	var map = {};
 	$('#phaseFilter').find('option').first().addClass('tingaling');
+	($("#cardSelectionOptions").show());
+			($("#loading").hide());
 	$('select option').each(function () {
 	  if (map[this.value]) {
 	      $(this).remove()
 	  }
 	  map[this.value] = true;
-	}); }, 5);
+	}); }, 500);
+
+
 
 });

@@ -8,13 +8,20 @@
 
 font-family: 'Alata', sans-serif;
 }
+#cardSelectionOptions
+{
+	display:none;
+}
 #footer
 {
 	font-size:16px;
 	font-family: 'Orbitron', sans-serif;
 color:#FD5F00;
 }
-
+#loading
+{
+	text-align:center;
+}
 #subfactionwrapper
 {
 	display:none;
@@ -23,7 +30,7 @@ h3
 {
 font-family: 'Orbitron', sans-serif;
 color:#FD5F00;
-
+	font-size:50px;
 }
 body
 {
